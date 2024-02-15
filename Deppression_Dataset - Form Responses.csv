@@ -1,0 +1,1067 @@
+Timestamp,Which year are you in?,How are you feeling right now?,"On a scale of 1-100, how would you express this feeling?",Gender,Age,Your location ?,Relationship status,Are you happy with your financial state?,How much have you succeeded to cope up with the environment of your educational institution?,Understanding with your family members?,Are you feeling pressure in your study or work right now?,Are you satisfied with your academic result?,Are you happy with your living place?,Who supports you when you are not succeeding in your academic life?,Have you used any social media within the last 6 hours?,Do you have inferiority complex? ,Are you satisfied with your meal today?,Are you feeling sick/health issues today?,"Have you done any recreational activity (sports, gaming, hobby etc.) today?",How long did you sleep last night?(in hours)
+11/28/2020 22:37:20,4th year,Normal,60,Male,21,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,5.5
+1/17/2021 21:49:22,4th year,Normal,40,Male,21,Home,Single,Yes,3,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,No,7.5
+1/17/2021 21:51:08,4th year,Very good,80,Male,21,Home,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,7
+1/17/2021 21:55:25,1st year,Good,65,Male,18,Home,Single,Yes,4,Normal,No,Yes,Yes,Friends,No,No,Yes,No,Yes,5
+1/17/2021 22:26:18,1st year,Very bad,30,Male,18,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Friends,No,No,Yes,No,No,6
+1/17/2021 22:28:25,3rd year,Very good,75,Male,21,Playground,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,7
+1/17/2021 22:30:45,3rd year,Very good,80,Male,22,Playground,Single,Yes,3,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,5.5
+1/17/2021 22:32:40,3rd year,Normal,55,Male,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,No,Yes,No,6
+1/17/2021 22:36:03,2nd year,Very good,80,Male,20,Hall-Mess,It's complicated,Yes,3,Good,No,Yes,Yes,Not applicable,Yes,No,Yes,No,Yes,7
+1/17/2021 22:42:55,1st year,Good,75,Male,19,Department,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Yes,No,Yes,5
+1/18/2021 9:34:10,2nd year,Good,70,Male,20,Department,Single,Yes,3,Good,Not applicable,Not applicable,Yes,Friends,Yes,No,Yes,No,Yes,4
+1/18/2021 9:37:36,Not applicable,Very good,80,Male,22,Sister's Home,Single,Yes,3,Good,Yes,Yes,Yes,Not applicable,Yes,No,Yes,No,No,7
+1/18/2021 9:41:08,Not applicable,Good,73,Male,22,Cousin's Home,Single,Yes,3,Good,No,Not applicable,Not applicable,Not applicable,Yes,No,Yes,No,Yes,8
+1/18/2021 9:43:40,Not applicable,Very good,76,Male,22,Aunt's House,Single,Yes,3,Good,No,Not applicable,Not applicable,Not applicable,Yes,No,Yes,No,No,7.5
+1/18/2021 9:46:34,Not applicable,Very good,80,Male,22,Mosque,Single,Yes,3,Good,Not applicable,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,6.5
+1/18/2021 9:50:28,1st year,Bad,35,Male,19,Hall-Mess,Single,Yes,4,Normal,No,Yes,Not applicable,Not applicable,Not applicable,Maybe,Neutral,No,Yes,6
+1/18/2021 10:03:09,4th year,Normal,45,Male,22,Home,Single,Yes,2,Good,Yes,Yes,Yes,Not applicable,Yes,Maybe,Neutral,No,Yes,7.5
+1/18/2021 11:03:41,Not applicable,Good,60,Male,22,Playground,Single,Yes,3,Normal,Yes,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+1/18/2021 11:05:27,2nd year,Bad,40,Male,20,Department,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,Yes,5.5
+1/18/2021 11:07:26,3rd year,Normal,65,Male,21,Town,Single,Yes,3,Normal,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,Yes,4.5
+1/19/2021 21:47:20,3rd year,Normal,65,Male,21,Town,Single,Yes,3,Normal,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,Yes,4.5
+1/19/2021 21:54:11,2nd year,Bad,35,Male,20,Department,Single,Yes,3,Normal,Not applicable,Not applicable,Not applicable,Not applicable,Yes,Maybe,Yes,No,Yes,6
+2/15/2021 9:46:27,4th year,Good,70,Male,22,Home,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,7
+2/15/2021 9:48:10,2nd year,Bad,32,Male,21,Playground,Single,No,2,Good,Yes,Yes,No,Family,Yes,Yes,Neutral,Yes,No,5
+2/15/2021 9:51:10,1st year,Very bad,15,Male,20,Hall-Mess,Single,No,3,Normal,Yes,No,Yes,Family,Not applicable,No,No,Yes,No,5
+2/15/2021 9:53:11,2nd year,Very bad,19,Male,21,Playground,Single,No,1,Normal,Yes,No,No,Friends,Yes,Yes,Yes,No,No,3
+2/15/2021 10:06:23,3rd year,Bad,37,Male,22,Home,Single,Yes,2,Bad,Yes,Yes,Yes,Family,Yes,No,Neutral,Yes,Yes,4
+2/15/2021 10:09:23,2nd year,Very good,90,Male,21,Department,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,No,8
+2/15/2021 10:12:24,1st year,Normal,53,Male,20,Town,Single,No,5,Good,Yes,No,No,Friends,Not applicable,Maybe,Neutral,Yes,Yes,7
+2/15/2021 10:14:24,2nd year,Very bad,4,Male,21,Home,Single,No,3,Bad,Yes,Yes,No,Friends,No,Yes,Yes,No,Yes,5
+2/15/2021 10:17:24,4th year,Normal,60,Male,23,Playground,Single,No,4,Normal,Yes,No,Yes,Friends,No,Maybe,Yes,Yes,No,8
+2/15/2021 10:20:24,4th year,Very good,96,Male,23,Playground,Single,Yes,3,Normal,No,No,Yes,Not applicable,Not applicable,No,Yes,No,Yes,9
+2/15/2021 10:23:24,3rd year,Good,72,Male,22,town,Single,Yes,4,Normal,No,Yes,Yes,Family,Not applicable,No,Neutral,No,No,10
+2/15/2021 10:26:24,1st year,Normal,66,Male,20,Hall-Mess,Single,No,4,Good,No,Yes,No,Family,Not applicable,No,Neutral,Yes,Yes,6
+2/15/2021 10:28:25,4th year,Normal,53,Male,23,Hall-Mess,Single,No,5,Normal,No,No,No,Friends,No,No,Neutral,Yes,Yes,7
+2/15/2021 10:31:25,4th year,Very bad,15,Male,23,Aunt's House,Single,Yes,3,Normal,Yes,Yes,Yes,Friends,Yes,Yes,Yes,Yes,No,6
+2/15/2021 10:34:25,1st year,Normal,62,Male,20,Sister's Home,Single,Yes,5,Normal,Yes,Yes,No,Not applicable,No,No,Neutral,Yes,No,7
+2/15/2021 10:36:25,2nd year,Bad,36,Male,21,Playground,Single,No,1,Good,Yes,No,Yes,Family,No,Maybe,No,Yes,Yes,4
+2/15/2021 10:38:25,1st year,Very good,98,Male,20,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Friends,No,No,Yes,No,Yes,8
+2/15/2021 10:41:25,2nd year,Good,70,Male,21,Sister's Home,Single,Yes,3,Good,No,Yes,Yes,Family,Not applicable,No,Neutral,No,Yes,10
+2/15/2021 10:44:25,1st year,Normal,67,Male,20,Aunt's House,Single,Yes,3,Normal,Yes,Yes,No,Friends,No,No,Yes,No,No,6
+2/15/2021 10:47:26,3rd year,Normal,64,Male,22,Home,Single,Yes,5,Normal,No,Yes,No,Friends,No,Maybe,Yes,No,Yes,6
+2/15/2021 10:50:26,1st year,Normal,53,Male,20,SIster's Home,Single,Yes,3,Normal,No,No,No,Friends,No,Maybe,Neutral,No,Yes,6
+2/15/2021 10:53:26,1st year,Good,79,Male,20,Aunt's House,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,8
+2/15/2021 10:55:26,1st year,Very bad,5,Male,20,Hall-Mess,Single,No,1,Good,Yes,Yes,Yes,Family,Yes,Yes,Neutral,No,Yes,7
+2/15/2021 10:58:26,2nd year,Very good,94,Male,21,Playground,Single,Yes,4,Good,No,No,Yes,Family,No,No,Neutral,No,Yes,7
+2/15/2021 11:00:27,2nd year,Bad,43,Male,21,Department,Single,No,3,Bad,Yes,Yes,Yes,Family,Not applicable,Yes,Neutral,No,Yes,6
+2/15/2021 11:02:27,3rd year,Very good,93,Male,22,Playground,Single,Yes,5,Normal,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,10
+2/15/2021 11:04:27,1st year,Very bad,3,Male,20,Department,Single,Yes,1,Good,Yes,Yes,Yes,Not applicable,No,Maybe,No,No,Yes,4
+2/15/2021 11:06:27,1st year,Very bad,5,Male,20,Home,Single,No,1,Normal,Yes,Yes,Yes,Friends,Yes,No,Neutral,No,No,4
+2/15/2021 11:08:27,3rd year,Good,74,Male,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Neutral,No,Yes,10
+2/15/2021 11:28:06,4th year,Very good,94,Male,23,Playground,Single,Yes,5,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,Yes,7
+2/15/2021 11:30:06,2nd year,Good,79,Male,21,Playground,Single,Yes,3,Good,No,Yes,Yes,Friends,No,No,Neutral,No,Yes,9
+2/15/2021 11:32:06,1st year,Normal,64,Male,20,Aunt's House,Single,No,5,Good,No,No,Yes,Family,Not applicable,Maybe,Yes,Yes,No,8
+2/15/2021 11:35:22,1st year,Very good,90,Male,20,Home,Single,Yes,3,Normal,No,Yes,Yes,Family,No,No,Yes,No,No,7
+2/15/2021 11:38:09,1st year,Very bad,16,Male,20,Home,Single,No,1,Bad,Yes,No,Yes,Family,Yes,Yes,No,No,No,6
+2/15/2021 11:41:08,1st year,Bad,41,Male,20,Department,Single,Yes,3,Good,Yes,Yes,No,Family,Not applicable,Maybe,Neutral,Yes,No,5
+2/15/2021 11:43:08,1st year,Bad,43,Male,20,Home,Single,Yes,2,Bad,Yes,No,Yes,Friends,Not applicable,Maybe,Yes,No,No,4
+2/15/2021 11:45:08,1st year,Very bad,12,Male,20,Town,Single,Yes,1,Bad,Yes,No,Yes,Friends,Not applicable,Maybe,Yes,Yes,Yes,6
+2/15/2021 11:48:08,2nd year,Very bad,15,Male,21,Playground,Single,No,2,Good,Yes,Yes,Yes,Not applicable,No,Maybe,Neutral,No,Yes,4
+2/15/2021 11:50:08,2nd year,Very good,94,Male,21,Mosque,Single,Yes,5,Good,No,No,Yes,Not applicable,Not applicable,No,Yes,No,No,6
+2/15/2021 11:53:09,1st year,Bad,33,Male,20,Department,Single,Yes,1,Good,Yes,No,No,Not applicable,Yes,Yes,Yes,No,No,3
+2/15/2021 11:55:09,4th year,Very good,97,Male,23,Home,Single,Yes,5,Good,No,No,Yes,Family,Yes,No,Neutral,No,Yes,7
+2/15/2021 11:58:09,1st year,Very bad,6,Male,20,Town,Single,No,2,Good,Yes,No,Yes,Friends,No,Yes,Yes,No,Yes,6
+2/15/2021 12:01:09,1st year,Bad,31,Male,20,Playground,Single,No,3,Bad,Yes,No,Yes,Friends,Not applicable,Maybe,No,Yes,No,4
+2/15/2021 12:03:09,2nd year,Very good,94,Male,21,Department,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,10
+2/15/2021 12:30:11,2nd year,Very bad,9,Male,21,Home,Single,Yes,3,Good,Yes,Yes,No,Family,Not applicable,No,No,No,No,4
+2/15/2021 12:32:11,1st year,Very good,95,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2/15/2021 12:34:12,4th year,Very good,95,Male,23,Aunt's House,Single,Yes,5,Good,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,8
+2/15/2021 12:36:12,3rd year,Bad,41,Male,22,Sister's Home,Single,Yes,2,Bad,Yes,Yes,Yes,Not applicable,Not applicable,No,Neutral,Yes,Yes,6
+2/15/2021 12:39:12,3rd year,Normal,70,Male,22,Playground,Single,No,4,Normal,Yes,Yes,No,Friends,No,No,Yes,No,Yes,7
+2/15/2021 12:41:12,4th year,Very bad,6,Male,23,Hall-Mess,Single,Yes,3,Bad,Yes,No,Yes,Friends,No,Maybe,Yes,Yes,No,4
+2/15/2021 12:43:12,4th year,Bad,45,Male,23,Sister's Home,Single,No,1,Good,Yes,No,Yes,Friends,No,No,Neutral,Yes,Yes,4
+2/15/2021 12:45:12,2nd year,Bad,29,Male,21,Aunt's House,Single,Yes,3,Bad,Yes,No,Yes,Friends,Yes,Yes,Yes,Yes,Yes,6
+2/15/2021 12:47:12,2nd year,Bad,45,Male,21,Department,Single,Yes,2,Normal,Yes,No,No,Friends,Not applicable,Maybe,Neutral,No,Yes,3
+2/15/2021 12:50:12,2nd year,Very good,91,Male,21,Department,Single,Yes,4,Normal,No,No,Yes,Family,Not applicable,No,Yes,No,No,10
+2/15/2021 12:53:12,1st year,Very bad,7,Male,20,Playground,Single,No,1,Bad,Yes,Yes,No,Family,Not applicable,Yes,No,Yes,No,4
+2/15/2021 12:55:13,4th year,Normal,67,Male,23,Aunt's House,Single,Yes,5,Good,Yes,Yes,Yes,Not applicable,No,Maybe,Neutral,Yes,No,6
+2/15/2021 12:58:13,1st year,Normal,61,Male,20,Sister's Home,Single,Yes,4,Normal,Yes,Yes,Yes,Family,No,Maybe,Yes,No,Yes,7
+2/15/2021 13:01:13,4th year,Normal,55,Male,23,Playground,Single,Yes,5,Normal,No,No,Yes,Not applicable,No,Maybe,Yes,No,Yes,8
+2/15/2021 13:04:13,2nd year,Normal,70,Male,21,Home,Single,Yes,4,Normal,No,Yes,No,Family,Not applicable,No,Neutral,No,No,7
+2/15/2021 13:06:13,4th year,Very bad,16,Male,23,Home,Single,No,2,Good,Yes,Yes,Yes,Friends,No,Maybe,Yes,Yes,Yes,6
+2/15/2021 13:08:13,1st year,Bad,49,Male,20,Town,Single,No,3,Bad,Yes,Yes,No,Not applicable,Yes,Maybe,Yes,No,No,4
+2/15/2021 13:10:13,4th year,Normal,65,Male,23,Playground,Single,No,3,Normal,No,No,No,Not applicable,No,Maybe,Yes,Yes,Yes,7
+2/15/2021 13:12:14,4th year,Bad,27,Male,23,Mosque,Single,Yes,1,Good,Yes,Yes,Yes,Family,No,No,Yes,Yes,Yes,7
+2/15/2021 13:16:09,1st year,Good,80,Male,20,Department,Single,Yes,4,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+2/15/2021 15:05:56,2nd year,Bad,26,Male,21,Home,Single,Yes,1,Normal,Yes,No,No,Not applicable,No,Maybe,No,No,Yes,6
+2/15/2021 15:06:02,1st year,Good,80,Male,20,Hall-Mess,Single,Yes,4,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+2/15/2021 15:06:10,4th year,Bad,37,Male,23,Home,Single,Yes,2,Bad,Yes,Yes,Yes,Friends,Yes,Maybe,No,Yes,Yes,4
+2/15/2021 15:06:14,2nd year,Very good,97,Male,21,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Not applicable,No,Yes,No,No,8
+2/15/2021 15:06:19,2nd year,Very bad,13,Male,21,Town,Single,Yes,2,Bad,Yes,Yes,Yes,Friends,Not applicable,Maybe,No,No,No,4
+2/15/2021 15:06:22,1st year,Good,81,Male,20,Playground,Single,Yes,4,Normal,No,No,Yes,Family,No,No,Neutral,No,Yes,6
+2/15/2021 15:06:43,4th year,Very good,96,Male,23,Mosque,Single,Yes,5,Good,No,No,Yes,Friends,No,No,Neutral,No,Yes,9
+2/15/2021 15:06:49,2nd year,Bad,27,Male,21,Department,Single,No,3,Bad,Yes,Yes,No,Not applicable,Yes,Maybe,Yes,Yes,No,3
+2/15/2021 15:06:55,3rd year,Normal,59,Male,22,Hall-Mess,Single,No,3,Normal,Yes,Yes,Yes,Not applicable,Not applicable,No,Yes,Yes,No,7
+2/15/2021 15:07:01,2nd year,Very bad,17,Male,21,Aunt's House,Single,Yes,1,Normal,Yes,Yes,Yes,Not applicable,No,Yes,Neutral,No,Yes,3
+2/15/2021 15:07:11,4th year,Normal,51,Male,23,Department,Single,Yes,5,Normal,No,No,No,Family,No,No,Neutral,No,Yes,6
+2/15/2021 15:07:17,3rd year,Good,80,Male,22,Sister's Home,Single,Yes,3,Good,No,No,Yes,Friends,Yes,No,Neutral,No,Yes,8
+2/15/2021 15:07:23,1st year,Good,85,Male,20,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,No,No,Yes,No,Yes,9
+2/15/2021 15:07:29,2nd year,Normal,52,Male,21,Mosque,Single,Yes,3,Normal,No,No,No,Family,Not applicable,No,Yes,Yes,Yes,7
+2/15/2021 15:07:34,1st year,Bad,49,Male,20,Department,Single,No,3,Normal,Yes,Yes,No,Not applicable,No,No,Neutral,Yes,No,7
+2/15/2021 15:07:41,3rd year,Very good,90,Male,22,Home,Single,Yes,3,Good,No,No,Yes,Friends,Yes,No,Yes,No,No,7
+2/15/2021 15:09:19,3rd year,Bad,48,Male,22,Hall-Mess,Single,Yes,1,Good,Yes,Yes,Yes,Family,Not applicable,No,Yes,Yes,Yes,6
+2/15/2021 15:11:19,4th year,Normal,62,Male,23,Department,Single,Yes,3,Good,No,No,No,Friends,Not applicable,No,Neutral,Yes,No,6
+2/15/2021 15:13:19,3rd year,Very good,92,Male,22,Aunt's House,Single,Yes,4,Normal,No,No,Yes,Friends,No,No,Neutral,No,Yes,9
+2/15/2021 15:15:19,1st year,Very bad,19,Male,20,Department,Single,No,3,Bad,Yes,Yes,No,Not applicable,No,Maybe,Neutral,Yes,No,6
+2/15/2021 15:17:20,1st year,Very good,92,Male,20,Sister's Home,Single,Yes,4,Good,No,Yes,Yes,Not applicable,Yes,No,Yes,No,Yes,9
+2/15/2021 15:19:20,1st year,Normal,61,Male,20,Playground,Single,Yes,4,Normal,Yes,Yes,Yes,Friends,Not applicable,No,Neutral,No,No,8
+2/15/2021 15:21:20,2nd year,Very bad,13,Male,21,Aunt's House,Single,No,2,Good,Yes,Yes,No,Friends,Not applicable,Maybe,Neutral,Yes,Yes,6
+2/15/2021 15:23:20,1st year,Normal,52,Male,20,Department,Single,No,3,Normal,Yes,Yes,No,Friends,No,No,Yes,Yes,No,6
+2/15/2021 15:26:20,1st year,Very bad,18,Male,20,Sister's Home,Single,No,2,Normal,Yes,Yes,Yes,Family,No,No,Neutral,Yes,No,3
+2/15/2021 15:29:21,3rd year,Normal,57,Male,22,Department,Single,Yes,3,Good,No,No,Yes,Family,Not applicable,Maybe,Yes,No,Yes,6
+2/15/2021 15:31:20,4th year,Very good,100,Male,23,Aunt's House,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Neutral,No,No,9
+2/15/2021 15:34:21,2nd year,Normal,68,Male,21,Department,Single,Yes,3,Good,Yes,Yes,Yes,Family,Not applicable,No,Neutral,No,Yes,8
+2/15/2021 15:37:21,2nd year,Normal,68,Male,21,Sister's Home,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,No,No,Neutral,Yes,No,8
+2/15/2021 15:40:21,1st year,Normal,55,Male,20,Hall-Mess,Single,Yes,3,Normal,Yes,No,Yes,Family,Not applicable,No,Neutral,Yes,No,7
+2/15/2021 15:42:21,4th year,Bad,40,Male,23,Hall-Mess,Single,Yes,1,Bad,Yes,Yes,No,Family,Yes,Yes,Yes,Yes,Yes,7
+2/15/2021 15:44:21,2nd year,Bad,29,Male,21,Playground,Single,No,2,Good,Yes,No,Yes,Friends,Yes,No,Neutral,Yes,Yes,7
+2/15/2021 15:46:21,4th year,Very good,99,Male,23,Department,Single,Yes,5,Good,No,No,Yes,Not applicable,No,No,Yes,No,No,8
+2/15/2021 15:48:22,3rd year,Very bad,12,Male,22,Playground,Single,No,2,Bad,Yes,Yes,No,Family,No,No,No,Yes,No,3
+2/15/2021 15:50:21,1st year,Bad,21,Male,20,Playground,Single,Yes,1,Bad,Yes,No,No,Friends,No,Yes,Neutral,Yes,No,3
+2/15/2021 15:53:22,3rd year,Very good,98,Male,22,Department,Single,Yes,5,Good,No,No,Yes,Family,No,No,Yes,No,Yes,7
+2/15/2021 15:56:23,3rd year,Normal,60,Male,22,Hall-Mess,Single,No,5,Normal,Yes,Yes,Yes,Family,No,Maybe,Yes,No,Yes,6
+2/15/2021 15:58:21,3rd year,Good,81,Male,22,Aunt's House,Single,Yes,5,Good,No,No,Yes,Not applicable,No,No,Yes,No,Yes,8
+2/15/2021 16:01:22,1st year,Bad,46,Male,20,Hall-Mess,Single,Yes,2,Good,Yes,Yes,Yes,Friends,Not applicable,Maybe,Yes,No,No,3
+2/15/2021 16:04:22,2nd year,Very good,96,Male,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,No,No,Yes,No,Yes,6
+2/15/2021 16:07:22,4th year,Good,89,Male,23,Playground,Single,Yes,5,Good,No,No,Yes,Friends,No,No,Yes,No,Yes,8
+2/15/2021 16:10:22,4th year,Very bad,16,Male,23,Department,Single,Yes,2,Normal,Yes,Yes,Yes,Family,No,Maybe,Yes,No,No,6
+2/15/2021 16:13:22,4th year,Very bad,16,Male,23,Home,Single,Yes,2,Bad,Yes,Yes,Yes,Friends,Not applicable,Maybe,No,Yes,Yes,5
+2/15/2021 16:15:22,2nd year,Very good,90,Male,21,Department,Single,Yes,3,Good,No,No,Yes,Friends,Not applicable,No,Neutral,No,Yes,9
+2/15/2021 16:18:23,2nd year,Good,74,Male,21,Home,Single,Yes,5,Good,No,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,7
+2/15/2021 16:20:23,2nd year,Very bad,16,Male,21,Playground,Single,No,3,Good,Yes,Yes,Yes,Family,Yes,Maybe,Yes,Yes,No,4
+2/15/2021 16:23:23,3rd year,Very good,95,Male,22,Department,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2/15/2021 16:26:23,1st year,Bad,39,Male,20,Town,Single,No,2,Good,Yes,No,No,Not applicable,Not applicable,No,Neutral,Yes,No,3
+2/15/2021 16:28:23,1st year,Very bad,5,Male,20,Town,Single,Yes,3,Normal,Yes,No,Yes,Friends,Yes,Yes,No,Yes,Yes,4
+2/15/2021 16:30:23,2nd year,Very bad,19,Male,21,Playground,Single,No,1,Bad,Yes,Yes,No,Not applicable,No,No,Neutral,Yes,No,4
+2/15/2021 16:33:24,1st year,Normal,53,Male,20,Playground,Single,No,3,Normal,No,No,No,Not applicable,Not applicable,Maybe,Yes,No,Yes,8
+2/15/2021 16:36:23,3rd year,Very bad,3,Male,22,Department,Single,Yes,3,Good,Yes,No,Yes,Family,Not applicable,Maybe,Yes,No,No,7
+2/15/2021 21:44:06,1st year,Good,70,Male,20,Sister's House,Single,Yes,4,Good,No,No,Yes,Family,Not applicable,No,Neutral,No,Yes,7
+2/15/2021 21:47:06,2nd year,Very good,95,Male,21,Hall-Mess,Single,Yes,5,Normal,No,No,Yes,Family,No,No,Neutral,No,Yes,10
+2/15/2021 21:50:06,2nd year,Bad,35,Male,21,Town,Single,Yes,2,Bad,Yes,Yes,No,Family,Yes,No,Yes,No,No,6
+2/15/2021 21:52:06,3rd year,Good,84,Male,22,Cousin's House,Single,Yes,4,Good,No,No,Yes,Not applicable,No,No,Yes,No,No,8
+2/15/2021 21:54:06,3rd year,Bad,42,Male,22,Hall-Mess,Single,No,1,Bad,Yes,No,No,Not applicable,Yes,No,No,No,Yes,6
+2/15/2021 21:56:06,4th year,Very good,96,Male,23,Tour,Single,Yes,4,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,No,10
+2/15/2021 21:58:06,1st year,Good,83,Male,20,Restaurant,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Neutral,No,No,6
+2/15/2021 22:01:06,4th year,Bad,37,Male,23,Mosque,Single,Yes,2,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,Yes,Yes,7
+2/15/2021 22:03:07,2nd year,Bad,29,Male,21,Sister's House,Single,Yes,3,Bad,Yes,Yes,No,Friends,Yes,Yes,Yes,No,Yes,3
+2/15/2021 22:06:07,4th year,Normal,67,Male,23,Department,Single,Yes,4,Normal,Yes,Yes,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,7
+2/15/2021 22:09:07,1st year,Bad,29,Male,20,Playground,Single,No,2,Normal,Yes,Yes,Yes,Friends,Not applicable,Yes,Yes,No,Yes,5
+2/15/2021 22:11:07,4th year,Very good,93,Male,23,Playground,Single,Yes,5,Good,No,No,Yes,Not applicable,No,No,Yes,No,No,8
+2/15/2021 22:13:07,3rd year,Bad,33,Male,22,Home,Single,No,1,Good,Yes,No,Yes,Friends,Not applicable,Yes,Neutral,No,Yes,4
+2/15/2021 22:15:07,3rd year,Bad,36,Male,22,Mosque,Single,No,3,Bad,Yes,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,3
+2/15/2021 22:18:07,4th year,Normal,66,Male,23,Sister's House,Single,No,4,Normal,No,No,No,Family,No,Maybe,Neutral,Yes,Yes,8
+2/15/2021 22:21:08,4th year,Very good,91,Male,23,Cousin's House,Single,Yes,5,Normal,No,Yes,Yes,Friends,No,No,Yes,No,No,8
+2/15/2021 22:23:08,2nd year,Good,78,Male,21,Home,Single,Yes,3,Good,No,No,Yes,Friends,Not applicable,No,Yes,No,No,7
+2/15/2021 22:25:08,1st year,Good,78,Male,20,Home,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,6
+2/15/2021 22:28:08,4th year,Very good,92,Male,23,Department,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Yes,No,Yes,No,No,10
+2/15/2021 22:30:08,4th year,Good,71,Male,23,Department,Single,Yes,4,Normal,No,No,Yes,Friends,No,No,Neutral,No,Yes,9
+2/15/2021 22:32:08,2nd year,Normal,58,Male,21,Playground,Single,Yes,4,Normal,No,Yes,Yes,Friends,Not applicable,No,Neutral,No,Yes,6
+2/15/2021 22:35:08,2nd year,Normal,55,Male,21,Department,Single,Yes,4,Normal,No,Yes,No,Family,No,No,Yes,No,Yes,8
+2/15/2021 22:38:09,3rd year,Good,78,Male,22,Mosque,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Neutral,No,No,6
+2/15/2021 22:40:09,4th year,Bad,38,Male,23,Home,Single,Yes,2,Normal,Yes,Yes,No,Not applicable,Yes,Yes,Yes,Yes,No,4
+2/15/2021 22:43:09,3rd year,Very good,96,Male,22,Aunt's House,Single,Yes,4,Good,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,9
+2/15/2021 22:46:09,2nd year,Very good,96,Male,21,Sister's House,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Yes,No,No,7
+2/15/2021 22:48:09,2nd year,Very bad,9,Male,21,Sister's House,Single,No,3,Good,Yes,No,No,Friends,Yes,Maybe,No,No,Yes,3
+2/15/2021 22:50:09,1st year,Bad,45,Male,20,Town,Single,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,No,No,Yes,4
+2/15/2021 22:53:09,3rd year,Very good,97,Male,22,Mosque,Single,Yes,5,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,6
+2/15/2021 22:56:09,2nd year,Good,79,Male,21,Hall-Mess,Single,Yes,5,Good,No,No,Yes,Family,Yes,No,Neutral,No,Yes,7
+2/15/2021 22:59:09,2nd year,Good,83,Male,21,Cousin's House,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Yes,No,Yes,8
+2/15/2021 23:02:10,3rd year,Normal,54,Male,22,Playground,Single,Yes,4,Good,Yes,No,Yes,Friends,Not applicable,Maybe,Neutral,Yes,No,7
+2/15/2021 23:04:10,1st year,Very good,92,Male,20,Friend's House,Single,Yes,5,Normal,No,No,Yes,Friends,Yes,No,Yes,No,No,9
+2/15/2021 23:06:10,3rd year,Bad,25,Male,22,Mosque,Single,Yes,2,Bad,Yes,No,No,Friends,Not applicable,No,Yes,Yes,No,5
+2/15/2021 23:08:10,4th year,Very good,92,Male,23,Home,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Yes,No,Yes,6
+2/15/2021 23:11:10,2nd year,Normal,55,Male,21,Aunt's House,Single,No,4,Normal,Yes,Yes,Yes,Family,No,No,Yes,No,No,8
+2/15/2021 23:13:11,2nd year,Bad,42,Male,21,Department,Single,Yes,2,Bad,Yes,No,No,Friends,No,Yes,Yes,Yes,No,3
+2/15/2021 23:16:11,3rd year,Good,74,Male,22,Hall-Mess,Single,Yes,3,Normal,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,6
+2/15/2021 23:19:11,4th year,Bad,42,Male,23,Playground,Single,Yes,1,Good,Yes,No,Yes,Family,Not applicable,Maybe,Yes,Yes,No,4
+2/15/2021 23:21:11,1st year,Very good,98,Male,20,Cousin's House,Single,Yes,5,Normal,No,No,Yes,Not applicable,No,No,Yes,No,No,10
+2/15/2021 23:23:11,3rd year,Good,77,Male,22,Cousin's House,Single,Yes,4,Normal,No,No,Yes,Friends,No,No,Yes,No,No,6
+2/15/2021 23:25:11,2nd year,Bad,34,Male,21,Playground,Single,Yes,2,Bad,Yes,No,No,Not applicable,No,Yes,Neutral,No,No,4
+2/15/2021 23:28:11,4th year,Good,82,Male,23,Town,Single,Yes,4,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+2/15/2021 23:31:11,1st year,Very bad,8,Male,20,Tour,Single,Yes,2,Bad,Yes,No,No,Friends,Not applicable,Maybe,No,Yes,No,3
+2/15/2021 23:34:11,4th year,Very bad,5,Male,23,Town,Single,Yes,2,Bad,Yes,No,Yes,Family,No,Yes,No,Yes,Yes,7
+2/15/2021 23:36:12,3rd year,Good,87,Male,22,Restaurant,Single,Yes,3,Normal,No,No,Yes,Friends,Yes,No,Yes,No,No,8
+2/15/2021 23:39:12,2nd year,Normal,55,Male,21,Playground,Single,No,5,Good,Yes,Yes,Yes,Friends,No,Maybe,Yes,Yes,Yes,6
+2/15/2021 23:41:12,3rd year,Very good,100,Male,22,Home,Single,Yes,5,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,6
+2/15/2021 23:43:12,2nd year,Good,86,Male,21,Aunt's House,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,6
+2/15/2021 23:45:12,1st year,Normal,68,Male,20,Mosque,Single,No,5,Normal,No,Yes,Yes,Family,No,Maybe,Yes,No,No,8
+2/15/2021 23:48:12,1st year,Normal,68,Male,20,Friend's House,Single,Yes,5,Normal,No,No,No,Family,No,Maybe,Yes,No,Yes,7
+2/15/2021 23:51:12,1st year,Very good,96,Male,20,Friend's House,Single,Yes,3,Normal,No,No,Yes,Not applicable,No,No,Neutral,No,No,10
+2/15/2021 23:54:13,4th year,Good,84,Male,23,Tour,Single,Yes,5,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+2/15/2021 23:56:13,2nd year,Normal,69,Male,21,Aunt's House,Single,Yes,5,Good,No,No,No,Friends,Yes,No,Yes,Yes,No,8
+2/15/2021 23:59:13,1st year,Normal,69,Male,20,Restaurant,Single,No,5,Good,No,No,No,Friends,Yes,No,Neutral,No,No,6
+2/16/2021 0:02:13,3rd year,Bad,41,Male,22,Friend's House,Single,No,2,Bad,Yes,No,Yes,Friends,Not applicable,Maybe,No,Yes,Yes,5
+2/16/2021 0:04:13,2nd year,Very good,90,Male,21,Tour,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Neutral,No,No,6
+2/16/2021 0:07:13,1st year,Bad,44,Male,20,Tour,Single,No,3,Good,Yes,Yes,Yes,Not applicable,Not applicable,Maybe,Neutral,No,Yes,5
+2/16/2021 0:09:13,2nd year,Very bad,19,Male,21,Mosque,Single,Yes,2,Normal,Yes,Yes,No,Not applicable,No,Maybe,No,No,No,7
+2/16/2021 0:11:13,1st year,Bad,27,Male,20,Sister's House,Single,No,3,Good,Yes,No,Yes,Not applicable,No,No,Yes,Yes,No,4
+2/16/2021 0:13:13,1st year,Good,80,Male,20,Cousin's House,Single,Yes,5,Good,No,No,Yes,Friends,No,No,Neutral,No,No,7
+2/16/2021 0:16:13,4th year,Bad,22,Male,23,Friend's House,Single,No,1,Good,Yes,Yes,Yes,Family,No,Maybe,Yes,No,Yes,7
+2/16/2021 0:19:14,1st year,Good,79,Male,20,Cousin's House,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,8
+2/16/2021 0:22:14,1st year,Very bad,15,Male,20,Town,Single,No,2,Bad,Yes,No,Yes,Not applicable,Not applicable,Maybe,Yes,No,Yes,7
+2/16/2021 0:25:14,2nd year,Bad,33,Male,21,Home,Single,Yes,3,Bad,Yes,No,No,Family,Not applicable,Yes,Yes,Yes,No,3
+2/16/2021 0:27:14,2nd year,Bad,44,Male,21,Town,Single,No,2,Good,Yes,No,No,Family,No,Maybe,Yes,Yes,Yes,3
+2/16/2021 0:29:14,1st year,Normal,57,Male,20,Hall-Mess,Single,Yes,3,Normal,Yes,No,Yes,Not applicable,Not applicable,Maybe,Neutral,No,No,8
+2/16/2021 0:31:14,3rd year,Normal,51,Male,22,Sister's House,Single,No,4,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,Yes,8
+2/16/2021 0:34:14,4th year,Bad,43,Male,23,Town,Single,No,1,Good,Yes,No,Yes,Friends,Yes,No,No,No,No,5
+2/16/2021 0:37:14,4th year,Very good,92,Male,23,Hall-Mess,Single,Yes,5,Normal,No,No,Yes,Family,Not applicable,No,Yes,No,No,10
+2/16/2021 0:40:14,2nd year,Good,78,Male,21,Department,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Neutral,No,No,6
+2/16/2021 0:43:15,1st year,Very good,99,Male,20,Friend's House,Single,Yes,3,Normal,No,No,Yes,Friends,Not applicable,No,Neutral,No,No,6
+2/16/2021 0:46:15,4th year,Very good,90,Male,23,Mosque,Single,Yes,5,Good,No,No,Yes,Friends,Not applicable,No,Yes,No,No,7
+2/16/2021 0:48:15,1st year,Good,72,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,8
+2/16/2021 0:50:15,2nd year,Normal,60,Male,21,Cousin's House,Single,Yes,5,Normal,Yes,No,Yes,Not applicable,Not applicable,Maybe,Neutral,Yes,No,7
+2/16/2021 0:52:15,4th year,Very good,91,Male,23,Playground,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,10
+2/16/2021 0:55:15,1st year,Very bad,7,Male,20,Department,Single,No,2,Good,Yes,No,Yes,Friends,No,Maybe,Yes,No,No,4
+2/16/2021 0:58:15,1st year,Very bad,9,Male,20,Hall-Mess,Single,No,1,Normal,Yes,Yes,Yes,Family,No,Maybe,No,No,No,7
+2/16/2021 1:00:15,2nd year,Bad,36,Male,21,Playground,Single,No,3,Bad,Yes,No,No,Family,Not applicable,Maybe,Yes,No,No,3
+2/16/2021 1:02:16,2nd year,Good,82,Male,21,Playground,Single,Yes,3,Normal,No,No,Yes,Friends,Not applicable,No,Neutral,No,Yes,7
+2/16/2021 1:04:16,2nd year,Good,74,Male,21,Department,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,Yes,No,Yes,No,No,10
+2/16/2021 1:07:16,3rd year,Bad,47,Male,22,Aunt's House,Single,No,3,Bad,Yes,No,No,Not applicable,No,No,Yes,Yes,No,3
+2/16/2021 1:10:16,1st year,Good,81,Male,20,Mosque,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+2/16/2021 1:12:16,2nd year,Bad,28,Male,21,Restaurant,Single,No,2,Good,Yes,No,Yes,Friends,Yes,No,Neutral,Yes,Yes,5
+2/16/2021 1:14:16,1st year,Good,70,Male,20,Restaurant,Single,Yes,3,Normal,No,No,Yes,Friends,No,No,Neutral,No,No,9
+2/16/2021 1:17:16,2nd year,Very bad,16,Male,21,Mosque,Single,Yes,2,Bad,Yes,No,Yes,Family,Yes,Maybe,Yes,Yes,Yes,4
+2/16/2021 1:19:16,4th year,Very bad,17,Male,23,Friend's House,Single,Yes,3,Bad,Yes,No,Yes,Family,Not applicable,Yes,No,No,Yes,4
+2/16/2021 1:22:17,3rd year,Normal,60,Male,22,Town,Single,Yes,4,Good,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,8
+2/16/2021 1:25:17,2nd year,Good,74,Male,21,Restaurant,Single,Yes,5,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,No,9
+2/16/2021 1:28:17,2nd year,Very bad,17,Male,21,Department,Single,Yes,2,Bad,Yes,Yes,No,Family,Not applicable,Maybe,Yes,No,Yes,5
+2/16/2021 1:31:17,2nd year,Very good,92,Male,21,Sister's House,Single,Yes,3,Good,No,No,Yes,Friends,No,No,Yes,No,Yes,7
+2/16/2021 1:33:17,4th year,Bad,44,Male,23,Department,Single,Yes,3,Normal,Yes,No,Yes,Family,Yes,No,Yes,Yes,Yes,6
+2/16/2021 1:36:17,2nd year,Good,83,Male,21,Hall-Mess,Single,Yes,5,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,6
+2/16/2021 1:39:17,1st year,Good,87,Male,20,Playground,Single,Yes,4,Normal,No,No,Yes,Family,Not applicable,No,Neutral,No,No,8
+2/16/2021 1:41:18,4th year,Very good,99,Male,23,Sister's House,Single,Yes,3,Good,No,No,Yes,Family,Not applicable,No,Neutral,No,Yes,6
+2/16/2021 1:43:18,1st year,Very bad,10,Male,20,Friend's House,Single,No,3,Bad,Yes,Yes,No,Not applicable,No,No,No,Yes,Yes,5
+2/16/2021 1:45:18,1st year,Normal,57,Male,20,Sister's House,Single,No,5,Good,No,Yes,No,Not applicable,Yes,No,Neutral,Yes,No,7
+2/16/2021 1:48:18,2nd year,Very good,97,Male,21,Friend's House,Single,Yes,4,Normal,No,No,Yes,Friends,Not applicable,No,Yes,No,No,7
+2/16/2021 1:50:18,1st year,Normal,56,Male,20,Tour,Single,No,3,Normal,Yes,Yes,No,Friends,Not applicable,Maybe,Yes,No,Yes,6
+2/16/2021 1:53:18,1st year,Very bad,6,Male,20,Hall-Mess,Single,No,2,Good,Yes,No,No,Family,No,No,Yes,Yes,Yes,6
+2/16/2021 1:55:18,3rd year,Bad,35,Male,22,Hall-Mess,Single,No,3,Normal,Yes,Yes,No,Friends,Not applicable,Yes,Neutral,Yes,No,6
+2/16/2021 1:58:18,3rd year,Normal,65,Male,22,Department,Single,Yes,3,Good,Yes,Yes,No,Not applicable,No,Maybe,Yes,No,Yes,7
+2/16/2021 2:00:18,4th year,Normal,52,Male,23,Hall-Mess,Single,No,5,Good,Yes,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,7
+2/16/2021 2:03:19,4th year,Bad,24,Male,23,Playground,Single,Yes,2,Normal,Yes,Yes,Yes,Family,Not applicable,No,No,Yes,Yes,6
+2/16/2021 2:05:19,2nd year,Very bad,16,Male,21,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,Yes,Yes,7
+2/16/2021 2:08:19,1st year,Very bad,7,Male,20,Hall-Mess,Single,Yes,2,Good,Yes,Yes,Yes,Friends,Yes,Maybe,Yes,Yes,Yes,6
+2/16/2021 2:10:19,1st year,Normal,56,Male,20,Sister's House,Single,No,4,Normal,Yes,No,Yes,Friends,No,No,Neutral,Yes,No,6
+2/16/2021 2:13:19,1st year,Very good,97,Male,20,Department,Single,Yes,3,Normal,No,Yes,Yes,Friends,No,No,Yes,No,No,8
+2/16/2021 2:16:19,3rd year,Normal,53,Male,22,Department,Single,No,3,Good,No,Yes,Yes,Family,Yes,Maybe,Yes,Yes,No,7
+2/16/2021 2:19:19,4th year,Very bad,14,Male,23,Sister's House,Single,No,1,Normal,Yes,Yes,Yes,Family,Not applicable,No,No,No,No,7
+2/16/2021 2:21:19,4th year,Bad,49,Male,23,Tour,Single,Yes,2,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,Yes,No,7
+2/16/2021 2:23:20,2nd year,Good,73,Male,21,Mosque,Single,Yes,5,Good,No,Yes,Yes,Family,Not applicable,No,Yes,No,No,7
+2/16/2021 2:25:20,1st year,Very good,92,Male,20,Mosque,Single,Yes,3,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,No,7
+2/16/2021 2:28:20,1st year,Normal,59,Male,20,Tour,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Neutral,No,Yes,8
+2/16/2021 2:30:20,1st year,Very good,92,Male,20,Cousin's House,Single,Yes,4,Good,No,Yes,Yes,Family,No,No,Neutral,No,Yes,6
+2/16/2021 2:33:20,1st year,Good,81,Male,20,Friend's House,Single,Yes,4,Good,No,Yes,Yes,Not applicable,Not applicable,No,Yes,No,No,7
+2/16/2021 2:35:20,4th year,Very bad,12,Male,23,Friend's House,Single,No,2,Bad,Yes,Yes,Yes,Family,Yes,Yes,Neutral,Yes,Yes,5
+2/16/2021 2:37:20,2nd year,Very good,98,Male,21,Aunt's House,Single,Yes,5,Normal,No,No,Yes,Family,Not applicable,No,Neutral,No,No,7
+2/16/2021 2:39:20,4th year,Very good,100,Male,23,Sister's House,Single,Yes,5,Normal,No,No,Yes,Friends,Yes,No,Yes,No,No,7
+2/16/2021 2:41:20,2nd year,Very bad,8,Male,21,Town,Single,No,1,Bad,Yes,No,Yes,Not applicable,Not applicable,No,No,Yes,No,6
+2/16/2021 2:43:21,3rd year,Bad,30,Male,22,Tour,Single,No,2,Bad,Yes,No,Yes,Not applicable,No,Yes,Yes,No,Yes,7
+2/16/2021 2:46:21,3rd year,Good,83,Male,22,Town,Single,Yes,5,Normal,No,No,Yes,Family,Yes,No,Neutral,No,Yes,10
+2/16/2021 2:49:21,1st year,Very bad,4,Male,20,Mosque,Single,No,2,Normal,Yes,Yes,No,Family,Yes,Maybe,Yes,No,No,7
+2/16/2021 2:52:21,3rd year,Normal,51,Male,22,Mosque,Single,No,3,Good,No,Yes,Yes,Family,Not applicable,Maybe,Yes,No,No,6
+2/16/2021 2:55:21,4th year,Very bad,14,Male,23,Home,Single,Yes,3,Normal,Yes,Yes,No,Family,Not applicable,Maybe,Neutral,Yes,Yes,5
+2/16/2021 2:58:21,2nd year,Normal,64,Male,21,Playground,Single,Yes,4,Normal,Yes,No,No,Not applicable,Yes,No,Yes,Yes,No,7
+2/16/2021 3:00:22,1st year,Good,78,Male,20,Tour,Single,Yes,5,Good,No,Yes,Yes,Friends,No,No,Yes,No,No,6
+2/16/2021 3:02:22,2nd year,Very good,90,Male,21,Playground,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,10
+2/16/2021 3:04:22,3rd year,Very good,99,Male,22,Mosque,Single,Yes,5,Good,No,No,Yes,Not applicable,No,No,Neutral,No,Yes,8
+2/16/2021 3:07:22,2nd year,Very good,94,Male,21,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,No,9
+2/16/2021 3:10:22,3rd year,Good,79,Male,22,Department,Single,Yes,4,Normal,No,Yes,Yes,Family,No,No,Yes,No,Yes,10
+2/16/2021 3:12:22,2nd year,Very bad,8,Male,21,Hall-Mess,Single,Yes,3,Bad,Yes,No,No,Not applicable,No,Maybe,Neutral,Yes,Yes,3
+2/16/2021 3:14:22,4th year,Very bad,12,Male,23,Playground,Single,No,2,Normal,Yes,Yes,No,Friends,Yes,Maybe,No,No,No,5
+2/16/2021 3:17:23,3rd year,Very bad,5,Male,22,Cousin's House,Single,No,3,Normal,Yes,Yes,Yes,Not applicable,Yes,No,Yes,Yes,No,7
+2/16/2021 3:19:22,3rd year,Very good,91,Male,22,Playground,Single,Yes,4,Good,No,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,9
+2/16/2021 3:21:22,4th year,Bad,35,Male,23,Department,Single,Yes,2,Bad,Yes,Yes,Yes,Family,Yes,Yes,No,No,No,3
+2/16/2021 3:24:22,4th year,Very bad,14,Male,23,Hall-Mess,Single,Yes,1,Good,Yes,No,Yes,Family,Not applicable,No,Yes,No,Yes,6
+2/16/2021 3:27:23,1st year,Bad,28,Male,20,Playground,Single,No,3,Bad,Yes,No,No,Not applicable,No,Yes,Neutral,No,No,5
+2/16/2021 3:29:23,3rd year,Normal,65,Male,22,Playground,Single,No,5,Good,No,No,No,Not applicable,Yes,No,Yes,No,No,6
+2/16/2021 3:32:23,4th year,Bad,46,Male,23,Department,Single,Yes,1,Good,Yes,Yes,Yes,Family,Yes,Maybe,Yes,No,No,6
+2/16/2021 3:34:23,1st year,Good,87,Male,20,Aunt's House,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,6
+2/16/2021 3:37:23,1st year,Very good,90,Male,20,Mosque,Single,Yes,5,Good,No,Yes,Yes,Friends,No,No,Neutral,No,No,8
+2/16/2021 3:39:23,3rd year,Good,76,Male,22,Restaurant,Single,Yes,4,Normal,No,Yes,Yes,Friends,Not applicable,No,Neutral,No,No,6
+2/16/2021 3:42:23,1st year,Good,77,Male,20,Restaurant,Single,Yes,4,Normal,No,Yes,Yes,Not applicable,No,No,Neutral,No,No,7
+2/16/2021 3:45:23,4th year,Normal,58,Male,23,Playground,Single,No,3,Normal,No,No,Yes,Friends,Not applicable,No,Neutral,No,No,6
+2/16/2021 3:47:24,3rd year,Very good,100,Male,22,Restaurant,Single,Yes,5,Good,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,6
+2/16/2021 3:50:24,3rd year,Normal,65,Male,22,Playground,Single,Yes,3,Normal,No,No,Yes,Friends,Yes,Maybe,Neutral,Yes,No,7
+2/16/2021 3:52:24,3rd year,Very good,96,Male,22,Restaurant,Single,Yes,5,Good,No,Yes,Yes,Family,Not applicable,No,Neutral,No,No,7
+2/16/2021 3:55:24,2nd year,Very bad,19,Male,21,Cousin's House,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,No,Yes,No,3
+2/16/2021 3:57:24,2nd year,Very good,97,Male,21,Friend's House,Single,Yes,5,Good,No,Yes,Yes,Family,Not applicable,No,Neutral,No,Yes,8
+2/16/2021 4:00:24,2nd year,Bad,49,Male,21,Playground,Single,No,3,Normal,Yes,No,No,Family,Yes,Maybe,Neutral,No,No,4
+2/16/2021 4:02:24,2nd year,Good,86,Male,21,Mosque,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Neutral,No,Yes,7
+2/16/2021 4:04:25,3rd year,Very bad,16,Male,22,Home,Single,No,2,Bad,Yes,Yes,No,Not applicable,Yes,Maybe,Neutral,No,No,7
+2/16/2021 4:06:25,1st year,Very good,98,Male,20,Friend's House,Single,Yes,3,Normal,No,No,Yes,Not applicable,No,No,Yes,No,No,10
+2/16/2021 4:09:25,1st year,Bad,44,Male,20,Cousin's House,Single,No,1,Normal,Yes,No,Yes,Friends,No,No,Yes,No,Yes,7
+2/16/2021 4:12:25,3rd year,Bad,23,Male,22,Aunt's House,Single,Yes,3,Normal,Yes,Yes,No,Friends,Yes,Maybe,Neutral,No,No,7
+2/16/2021 4:14:25,3rd year,Bad,31,Male,22,Home,Single,No,2,Good,Yes,No,No,Not applicable,Not applicable,Maybe,Yes,No,Yes,4
+2/16/2021 4:16:25,1st year,Normal,50,Male,20,Department,Single,No,4,Normal,No,Yes,Yes,Family,No,Maybe,Neutral,No,No,6
+2/16/2021 4:18:25,3rd year,Good,73,Male,22,Friend's House,Single,Yes,4,Normal,No,No,Yes,Not applicable,No,No,Neutral,No,No,9
+2/16/2021 4:21:25,2nd year,Bad,36,Male,21,Town,Single,Yes,3,Good,Yes,No,No,Friends,Yes,Yes,Neutral,No,Yes,7
+2/16/2021 4:23:25,3rd year,Good,75,Male,22,Restaurant,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,No,8
+2/16/2021 4:25:26,3rd year,Normal,62,Male,22,Tour,Single,No,3,Good,Yes,Yes,Yes,Family,No,No,Yes,No,No,6
+2/16/2021 4:28:26,3rd year,Good,88,Male,22,Tour,Single,Yes,4,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,10
+2/16/2021 4:30:26,1st year,Good,78,Male,20,Friend's House,Single,Yes,3,Normal,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,6
+2/16/2021 4:33:26,1st year,Normal,56,Male,20,Aunt's House,Single,No,5,Good,Yes,No,Yes,Not applicable,Yes,No,Neutral,No,Yes,7
+2/16/2021 4:36:26,3rd year,Very good,100,Male,22,Cousin's House,Single,Yes,5,Normal,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,8
+2/16/2021 4:39:26,1st year,Normal,60,Male,20,Sister's House,Single,Yes,3,Good,Yes,No,No,Not applicable,No,Maybe,Neutral,Yes,No,7
+2/16/2021 4:42:26,4th year,Bad,47,Male,23,Restaurant,Single,Yes,3,Bad,Yes,Yes,No,Not applicable,Yes,Yes,Yes,Yes,No,4
+2/16/2021 4:45:26,1st year,Normal,66,Male,20,Hall-Mess,Single,No,4,Normal,No,No,Yes,Not applicable,Yes,No,Yes,Yes,Yes,6
+2/16/2021 4:48:26,2nd year,Very bad,6,Male,21,Playground,Single,Yes,1,Good,Yes,Yes,No,Friends,No,No,No,No,No,6
+2/16/2021 4:51:27,3rd year,Good,72,Male,22,Tour,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,No,6
+2/16/2021 4:54:27,4th year,Very good,97,Male,23,Hall-Mess,Single,Yes,5,Normal,No,No,Yes,Family,Yes,No,Yes,No,No,7
+2/16/2021 4:57:27,2nd year,Good,74,Male,21,Friend's House,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Neutral,No,Yes,6
+2/16/2021 5:00:27,4th year,Very bad,3,Male,23,Friend's House,Single,No,3,Good,Yes,Yes,Yes,Not applicable,Not applicable,No,No,No,No,7
+2/16/2021 5:02:27,2nd year,Normal,55,Male,21,Cousin's House,Single,No,4,Normal,Yes,Yes,No,Family,Not applicable,No,Yes,No,Yes,8
+2/16/2021 5:04:27,3rd year,Very good,92,Male,22,Restaurant,Single,Yes,4,Good,No,No,Yes,Not applicable,No,No,Neutral,No,No,6
+2/16/2021 5:06:27,1st year,Bad,27,Male,20,Sister's House,Single,Yes,3,Bad,Yes,Yes,Yes,Friends,No,No,Yes,Yes,Yes,5
+2/16/2021 6:31:32,3rd year,Normal,59,Male,22,Home,Single,Yes,4,Normal,Yes,No,Yes,Family,No,Maybe,Yes,No,Yes,8
+2/16/2021 6:33:32,1st year,Very good,93,Male,20,Aunt's House,Single,Yes,4,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,8
+2/16/2021 6:36:32,3rd year,Good,85,Male,22,Restaurant,Single,Yes,3,Good,No,Yes,Yes,Family,Not applicable,No,Neutral,No,Yes,7
+2/16/2021 6:38:32,4th year,Very good,94,Male,23,Friend's House,Single,Yes,4,Good,No,No,Yes,Not applicable,Not applicable,No,Yes,No,Yes,7
+2/16/2021 6:40:32,1st year,Normal,60,Male,20,Town,Single,No,5,Normal,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,7
+2/16/2021 6:42:32,4th year,Normal,57,Male,23,Playground,Single,No,4,Normal,Yes,Yes,Yes,Not applicable,No,No,Yes,No,No,8
+2/16/2021 6:44:32,3rd year,Bad,23,Male,22,Town,Single,Yes,2,Bad,Yes,No,No,Friends,Not applicable,No,No,No,No,5
+2/16/2021 6:46:33,2nd year,Normal,53,Male,21,Mosque,Single,Yes,3,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,Yes,6
+2/16/2021 6:49:33,1st year,Bad,46,Male,20,Mosque,Single,No,3,Normal,Yes,Yes,No,Family,Yes,Yes,No,No,No,4
+2/16/2021 6:51:33,2nd year,Good,74,Male,21,Aunt's House,Single,Yes,3,Normal,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,9
+2/16/2021 6:54:33,2nd year,Very good,99,Male,21,Friend's House,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2/16/2021 6:57:33,4th year,Normal,63,Male,23,Town,Single,Yes,5,Good,No,No,No,Friends,No,No,Yes,No,Yes,8
+2/16/2021 7:00:33,4th year,Bad,47,Male,23,Hall-Mess,Single,Yes,1,Normal,Yes,Yes,Yes,Friends,Yes,Maybe,Yes,No,No,5
+2/16/2021 7:02:33,2nd year,Good,80,Male,21,Mosque,Single,Yes,4,Normal,No,No,Yes,Friends,Not applicable,No,Neutral,No,No,6
+2/16/2021 7:04:33,2nd year,Normal,56,Male,21,Sister's House,Single,No,3,Good,No,No,Yes,Family,No,No,Yes,Yes,Yes,7
+2/16/2021 7:07:34,1st year,Very bad,4,Male,20,Department,Single,No,2,Bad,Yes,No,Yes,Not applicable,Yes,Yes,Yes,No,No,4
+2/16/2021 7:10:34,1st year,Good,71,Male,20,Playground,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Yes,No,No,6
+2/16/2021 7:13:34,4th year,Very good,99,Male,23,Playground,Single,Yes,4,Good,No,No,Yes,Family,Not applicable,No,Yes,No,No,9
+2/16/2021 7:16:34,2nd year,Very bad,10,Male,21,Home,Single,No,2,Normal,Yes,Yes,No,Family,Yes,Maybe,No,No,No,5
+2/16/2021 7:19:34,4th year,Bad,30,Male,23,Mosque,Single,Yes,1,Bad,Yes,No,No,Not applicable,No,Yes,Yes,No,No,5
+2/16/2021 7:21:34,1st year,Bad,39,Male,20,Sister's House,Single,No,1,Normal,Yes,Yes,No,Family,Yes,Yes,Neutral,Yes,Yes,7
+2/16/2021 7:23:34,4th year,Good,76,Male,23,Cousin's House,Single,Yes,5,Normal,No,No,Yes,Not applicable,No,No,Yes,No,No,9
+2/16/2021 7:25:34,4th year,Good,76,Male,23,Home,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,No,9
+2/16/2021 7:28:34,4th year,Normal,62,Male,23,Home,Single,Yes,5,Normal,Yes,No,No,Not applicable,Not applicable,Maybe,Neutral,No,Yes,7
+2/16/2021 7:30:34,3rd year,Normal,54,Male,22,Department,Single,No,4,Normal,Yes,Yes,No,Friends,No,No,Neutral,No,No,6
+2/16/2021 7:32:35,4th year,Normal,53,Male,23,Department,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Yes,Yes,Yes,6
+2/16/2021 7:34:35,1st year,Very good,93,Male,20,Playground,Single,Yes,5,Good,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,No,10
+2/16/2021 7:36:35,1st year,Good,76,Male,20,Department,Single,Yes,4,Normal,No,No,Yes,Friends,No,No,Neutral,No,No,8
+2/16/2021 7:38:35,1st year,Good,70,Male,20,Mosque,Single,Yes,4,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,No,8
+2/16/2021 7:41:35,4th year,Very good,98,Male,23,Home,Single,Yes,3,Normal,No,No,Yes,Friends,No,No,Yes,No,No,9
+2/16/2021 7:44:36,4th year,Good,73,Male,23,Aunt's House,Single,Yes,3,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+2/16/2021 7:46:35,1st year,Bad,37,Male,20,Sister's House,Single,Yes,1,Bad,Yes,No,No,Not applicable,Not applicable,Yes,Yes,Yes,No,6
+2/16/2021 7:48:36,3rd year,Bad,43,Male,22,Sister's House,Single,No,3,Normal,Yes,No,No,Not applicable,Yes,Yes,No,Yes,Yes,5
+2/16/2021 7:51:36,1st year,Very bad,18,Male,20,Town,Single,No,2,Good,Yes,Yes,No,Family,No,No,Yes,No,Yes,4
+2/16/2021 7:53:36,4th year,Normal,51,Male,23,Mosque,Single,No,5,Good,Yes,No,No,Friends,No,No,Neutral,Yes,Yes,8
+2/16/2021 7:55:36,1st year,Very bad,7,Male,20,Hall-Mess,Single,Yes,1,Good,Yes,No,Yes,Not applicable,Yes,No,Yes,No,No,5
+2/16/2021 7:58:37,3rd year,Very bad,16,Male,22,Cousin's House,Single,Yes,1,Good,Yes,Yes,Yes,Not applicable,No,Yes,Yes,No,Yes,5
+2/16/2021 8:00:37,3rd year,Very good,92,Male,22,Playground,Single,Yes,5,Good,No,Yes,Yes,Friends,No,No,Neutral,No,No,9
+2/16/2021 8:02:37,4th year,Very bad,8,Male,23,Friend's House,Single,No,3,Good,Yes,Yes,Yes,Family,Yes,Maybe,No,No,Yes,7
+2/16/2021 8:04:37,1st year,Bad,26,Male,20,Mosque,Single,Yes,1,Normal,Yes,Yes,Yes,Friends,No,No,Neutral,Yes,Yes,3
+2/16/2021 8:07:37,1st year,Bad,32,Male,20,Home,Single,No,3,Good,Yes,Yes,Yes,Family,No,Maybe,Neutral,No,No,7
+2/16/2021 8:10:38,3rd year,Good,71,Male,22,Aunt's House,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,No,8
+4/7/2021 22:10:08,3rd year,Normal,69,Male,22,Department,Single,Yes,4,Good,Yes,Yes,No,Family,Not applicable,No,Neutral,Yes,No,8
+4/7/2021 22:13:07,3rd year,Bad,21,Male,22,Hall-Mess,Single,Yes,3,Bad,Yes,Yes,No,Family,No,No,Yes,Yes,No,4
+4/7/2021 22:16:08,1st year,Very good,93,Male,20,Playground,Single,Yes,3,Normal,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,No,10
+4/7/2021 22:19:08,1st year,Very bad,7,Male,20,Cousin's House,Single,Yes,3,Bad,Yes,Yes,No,Family,No,Yes,No,Yes,Yes,3
+4/7/2021 22:21:08,1st year,Very good,96,Male,20,Cousin's House,Single,Yes,5,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,8
+4/7/2021 22:23:08,1st year,Very bad,7,Male,20,Playground,Single,Yes,1,Bad,Yes,Yes,No,Not applicable,Yes,No,Neutral,No,Yes,4
+4/7/2021 22:26:08,1st year,Normal,52,Male,20,Town,Single,No,4,Good,No,Yes,Yes,Friends,No,Maybe,Neutral,Yes,Yes,7
+4/7/2021 22:28:08,1st year,Very bad,8,Male,20,Tour,Single,No,1,Good,Yes,Yes,No,Not applicable,Not applicable,No,No,No,No,4
+4/7/2021 22:30:08,1st year,Very good,100,Male,20,Town,Single,Yes,3,Normal,No,No,Yes,Friends,No,No,Neutral,No,No,6
+4/7/2021 22:33:09,1st year,Very good,99,Male,20,Restaurant,Single,Yes,5,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,No,9
+4/7/2021 22:35:09,4th year,Very bad,9,Male,23,Home,Single,No,3,Normal,Yes,No,No,Family,Yes,Yes,No,No,No,3
+4/7/2021 22:38:09,1st year,Very bad,5,Male,20,Home,Single,No,1,Bad,Yes,Yes,Yes,Friends,No,Maybe,No,No,No,3
+4/7/2021 22:41:09,1st year,Bad,46,Male,20,Mosque,Single,No,2,Good,Yes,No,Yes,Family,Yes,No,Neutral,No,No,3
+4/7/2021 22:43:09,4th year,Good,73,Male,23,Sister's House,Single,Yes,3,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,No,7
+4/7/2021 22:45:09,4th year,Very bad,5,Male,23,Department,Single,No,1,Normal,Yes,Yes,Yes,Family,No,Maybe,Yes,Yes,No,3
+4/7/2021 22:48:10,4th year,Bad,24,Male,23,Playground,Single,No,2,Bad,Yes,Yes,Yes,Friends,Yes,Maybe,Yes,Yes,No,6
+4/7/2021 22:50:10,2nd year,Very good,91,Male,21,Playground,Single,Yes,4,Normal,No,No,Yes,Family,Not applicable,No,Neutral,No,No,8
+4/7/2021 22:53:10,4th year,Normal,56,Male,23,Home,Single,No,3,Normal,Yes,Yes,Yes,Family,Yes,Maybe,Neutral,No,Yes,8
+4/7/2021 22:56:10,2nd year,Good,80,Male,21,Mosque,Single,Yes,4,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,6
+4/7/2021 22:58:10,4th year,Normal,65,Male,23,Sister's House,Single,Yes,5,Good,No,Yes,No,Not applicable,Yes,No,Yes,No,No,8
+4/7/2021 23:01:10,4th year,Normal,62,Male,23,Cousin's House,Single,Yes,3,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,Yes,7
+4/7/2021 23:04:11,1st year,Very bad,7,Male,20,Home,Single,Yes,3,Bad,Yes,Yes,No,Friends,No,No,Neutral,No,No,6
+4/7/2021 23:06:11,4th year,Bad,27,Male,23,Home,Single,No,2,Normal,Yes,Yes,Yes,Family,No,No,No,No,Yes,6
+4/7/2021 23:09:11,4th year,Good,74,Male,23,Department,Single,Yes,5,Normal,No,No,Yes,Not applicable,No,No,Yes,No,Yes,9
+4/7/2021 23:11:11,4th year,Very bad,4,Male,23,Department,Single,Yes,2,Normal,Yes,Yes,Yes,Not applicable,No,No,Yes,No,Yes,3
+4/7/2021 23:14:11,2nd year,Bad,44,Male,21,Playground,Single,No,2,Good,Yes,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+4/7/2021 23:16:11,3rd year,Very bad,19,Male,22,Department,Single,No,1,Bad,Yes,No,No,Friends,No,No,Yes,Yes,Yes,7
+4/7/2021 23:18:11,4th year,Bad,21,Male,23,Mosque,Single,Yes,1,Bad,Yes,Yes,Yes,Friends,Yes,No,No,Yes,Yes,5
+4/7/2021 23:20:12,3rd year,Good,82,Male,22,Home,Single,Yes,5,Normal,No,Yes,Yes,Family,No,No,Yes,No,Yes,9
+4/7/2021 23:22:12,4th year,Good,72,Male,23,Aunt's House,Single,Yes,3,Good,No,No,Yes,Not applicable,No,No,Neutral,No,Yes,10
+4/7/2021 23:25:12,2nd year,Very good,94,Male,21,Sister's House,Single,Yes,5,Good,No,No,Yes,Family,No,No,Neutral,No,Yes,9
+4/7/2021 23:27:12,2nd year,Normal,66,Male,21,Sister's House,Single,Yes,4,Normal,No,No,Yes,Family,No,No,Neutral,Yes,No,8
+4/7/2021 23:30:14,2nd year,Very bad,14,Male,21,Town,Single,No,1,Bad,Yes,Yes,No,Family,No,Yes,No,Yes,No,4
+4/7/2021 23:32:12,4th year,Very bad,5,Male,23,Mosque,Single,Yes,1,Bad,Yes,Yes,Yes,Family,No,Maybe,Yes,No,Yes,5
+4/7/2021 23:35:13,2nd year,Very good,92,Male,21,Hall-Mess,Single,Yes,5,Normal,No,Yes,Yes,Friends,No,No,Neutral,No,Yes,7
+4/7/2021 23:37:17,4th year,Good,87,Male,23,Cousin's House,Single,Yes,5,Normal,No,Yes,Yes,Friends,No,No,Yes,No,No,8
+4/7/2021 23:40:21,2nd year,Very bad,8,Male,21,Playground,Single,No,2,Bad,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,4
+4/7/2021 23:42:21,4th year,Very bad,17,Male,23,Friend's House,Single,Yes,1,Good,Yes,Yes,Yes,Not applicable,No,Maybe,No,No,Yes,6
+4/7/2021 23:45:23,2nd year,Bad,21,Male,21,Mosque,Single,Yes,3,Bad,Yes,No,Yes,Friends,Yes,No,No,Yes,No,5
+4/7/2021 23:48:22,3rd year,Bad,45,Male,22,Home,Single,No,2,Good,Yes,No,No,Not applicable,Yes,Yes,Yes,Yes,No,6
+4/7/2021 23:51:23,2nd year,Bad,44,Male,21,Aunt's House,Single,No,2,Bad,Yes,No,Yes,Not applicable,Not applicable,Maybe,Yes,Yes,Yes,5
+4/7/2021 23:53:23,3rd year,Normal,52,Male,22,Department,Single,No,5,Normal,Yes,No,Yes,Family,Yes,Maybe,Yes,No,No,8
+4/7/2021 23:56:23,3rd year,Very good,91,Male,22,Hall-Mess,Single,Yes,4,Normal,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,9
+4/7/2021 23:58:23,2nd year,Very good,96,Male,21,Playground,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,No,6
+4/8/2021 0:01:23,1st year,Normal,50,Male,20,Cousin's House,Single,No,5,Normal,Yes,No,Yes,Family,No,Maybe,Yes,No,No,8
+4/8/2021 0:03:23,4th year,Very bad,3,Male,23,Cousin's House,Single,No,1,Good,Yes,Yes,Yes,Family,Not applicable,Yes,No,No,No,7
+4/8/2021 0:05:23,1st year,Normal,61,Male,20,Playground,Single,Yes,4,Good,Yes,Yes,Yes,Family,Not applicable,No,Yes,Yes,Yes,7
+4/8/2021 0:07:23,3rd year,Very bad,6,Male,22,Town,Single,No,3,Bad,Yes,No,No,Family,Not applicable,No,No,Yes,No,7
+4/8/2021 0:10:24,2nd year,Very bad,19,Male,21,Tour,Single,No,1,Good,Yes,Yes,Yes,Not applicable,Yes,No,No,Yes,No,5
+4/8/2021 0:13:24,4th year,Normal,62,Male,23,Town,Single,No,4,Good,Yes,Yes,Yes,Not applicable,No,No,Neutral,No,No,6
+4/8/2021 0:16:24,1st year,Very bad,14,Male,20,Restaurant,Single,No,2,Normal,Yes,No,Yes,Not applicable,Not applicable,Yes,Neutral,Yes,No,7
+4/8/2021 0:18:24,1st year,Very bad,14,Male,20,Home,Single,Yes,1,Bad,Yes,No,Yes,Friends,Not applicable,No,Neutral,Yes,Yes,5
+4/8/2021 0:21:24,3rd year,Very bad,17,Male,22,Hall-Mess,Single,Yes,3,Normal,Yes,No,Yes,Not applicable,Yes,Yes,No,No,No,7
+4/8/2021 0:24:24,1st year,Good,70,Male,20,Playground,Single,Yes,3,Good,No,No,Yes,Not applicable,No,No,Neutral,No,No,9
+4/8/2021 0:26:24,4th year,Good,74,Male,23,Playground,Single,Yes,5,Good,No,Yes,Yes,Friends,Not applicable,No,Yes,No,Yes,8
+4/8/2021 0:28:24,4th year,Very good,93,Male,23,Department,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Neutral,No,No,10
+4/8/2021 0:30:25,3rd year,Normal,55,Male,22,Aunt's House,Single,Yes,3,Normal,Yes,Yes,Yes,Friends,No,No,Yes,Yes,No,7
+4/8/2021 0:32:25,2nd year,Bad,35,Male,21,Mosque,Single,Yes,1,Bad,Yes,No,No,Family,Yes,Maybe,Yes,Yes,Yes,5
+4/8/2021 0:34:25,1st year,Very good,90,Male,20,Restaurant,Single,Yes,4,Normal,No,No,Yes,Not applicable,Not applicable,No,Yes,No,No,10
+4/8/2021 0:36:25,2nd year,Good,80,Male,21,Restaurant,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,10
+4/8/2021 0:39:25,4th year,Very good,96,Male,23,Mosque,Single,Yes,4,Good,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,6
+4/8/2021 0:41:25,4th year,Normal,63,Male,23,Friend's House,Single,Yes,3,Good,No,Yes,No,Friends,Not applicable,No,Yes,No,No,7
+4/8/2021 0:43:25,3rd year,Bad,28,Male,22,Town,Single,Yes,2,Good,Yes,No,No,Not applicable,Yes,Yes,No,Yes,No,7
+4/8/2021 0:46:25,1st year,Normal,61,Male,20,Restaurant,Single,No,4,Normal,No,Yes,Yes,Friends,No,No,Neutral,No,Yes,7
+4/8/2021 0:48:26,2nd year,Good,81,Male,21,Department,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+4/8/2021 0:51:25,2nd year,Good,72,Male,21,Sister's House,Single,Yes,3,Good,No,No,Yes,Not applicable,No,No,Yes,No,No,9
+4/8/2021 0:54:26,1st year,Very bad,19,Male,20,Department,Single,No,2,Normal,Yes,No,No,Not applicable,No,Maybe,Neutral,No,No,3
+4/8/2021 0:57:26,1st year,Bad,33,Male,20,Hall-Mess,Single,Yes,3,Good,Yes,Yes,No,Friends,Not applicable,Yes,No,Yes,No,7
+4/8/2021 1:00:26,4th year,Normal,66,Male,23,Playground,Single,Yes,3,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+4/8/2021 1:03:26,2nd year,Very good,94,Male,21,Sister's House,Single,Yes,4,Normal,No,Yes,Yes,Friends,No,No,Yes,No,No,8
+4/8/2021 1:05:26,4th year,Good,86,Male,23,Friend's House,Single,Yes,5,Normal,No,Yes,Yes,Friends,No,No,Neutral,No,No,6
+4/8/2021 1:07:26,3rd year,Normal,61,Male,22,Sister's House,Single,Yes,4,Good,Yes,Yes,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+4/8/2021 1:10:26,4th year,Normal,66,Male,23,Friend's House,Single,Yes,4,Good,No,Yes,Yes,Not applicable,Yes,No,Neutral,Yes,Yes,7
+4/8/2021 1:12:26,4th year,Good,79,Male,23,Tour,Single,Yes,4,Normal,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,7
+4/8/2021 1:14:27,2nd year,Bad,25,Male,21,Hall-Mess,Single,No,2,Good,Yes,Yes,No,Friends,No,No,Yes,No,Yes,7
+4/8/2021 1:17:27,4th year,Very bad,13,Male,23,Hall-Mess,Single,No,3,Normal,Yes,Yes,Yes,Family,Yes,Maybe,Yes,No,No,3
+4/8/2021 1:20:27,3rd year,Normal,51,Male,22,Department,Single,Yes,4,Good,Yes,No,Yes,Not applicable,Yes,No,Neutral,Yes,No,6
+4/8/2021 1:23:27,3rd year,Bad,24,Male,22,Hall-Mess,Single,Yes,2,Normal,Yes,No,Yes,Family,Yes,Maybe,Yes,No,Yes,4
+4/8/2021 1:25:27,2nd year,Normal,58,Male,21,Playground,Single,Yes,4,Normal,Yes,Yes,No,Family,Not applicable,Maybe,Neutral,Yes,Yes,7
+4/8/2021 1:27:27,1st year,Very good,99,Male,20,Department,Single,Yes,5,Normal,No,Yes,Yes,Family,No,No,Yes,No,No,7
+4/8/2021 1:29:27,1st year,Very bad,3,Male,20,Hall-Mess,Single,No,2,Good,Yes,Yes,Yes,Not applicable,No,Maybe,Neutral,Yes,Yes,7
+4/8/2021 1:31:27,3rd year,Normal,59,Male,22,Sister's House,Single,No,4,Normal,No,No,No,Friends,Yes,Maybe,Yes,Yes,No,7
+4/8/2021 1:34:27,4th year,Bad,25,Male,23,Department,Single,No,2,Good,Yes,Yes,Yes,Family,Yes,No,Neutral,Yes,Yes,6
+4/8/2021 1:37:28,2nd year,Bad,27,Male,21,Department,Single,Yes,1,Normal,Yes,Yes,Yes,Friends,Yes,Maybe,No,Yes,Yes,3
+4/8/2021 1:40:28,3rd year,Normal,68,Male,22,Sister's House,Single,Yes,3,Good,Yes,Yes,Yes,Family,No,No,Yes,Yes,No,6
+4/8/2021 1:42:28,3rd year,Very good,94,Male,22,Tour,Single,Yes,3,Good,No,Yes,Yes,Friends,No,No,Yes,No,Yes,10
+4/8/2021 1:44:28,4th year,Very good,97,Male,23,Mosque,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,8
+4/8/2021 1:47:28,2nd year,Very bad,18,Male,21,Mosque,Single,Yes,1,Good,Yes,No,No,Family,No,No,Yes,No,Yes,5
+4/8/2021 1:50:28,3rd year,Normal,62,Male,22,Tour,Single,Yes,3,Normal,Yes,No,Yes,Family,Not applicable,No,Yes,Yes,Yes,8
+4/8/2021 1:52:28,1st year,Very good,92,Male,20,Cousin's House,Single,Yes,4,Normal,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,9
+4/8/2021 1:55:28,3rd year,Good,88,Male,22,Friend's House,Single,Yes,5,Good,No,No,Yes,Family,No,No,Neutral,No,No,7
+4/8/2021 1:58:29,3rd year,Good,86,Male,22,Friend's House,Single,Yes,4,Normal,No,No,Yes,Friends,No,No,Neutral,No,No,9
+4/8/2021 2:00:28,4th year,Normal,61,Male,23,Aunt's House,Single,No,4,Normal,Yes,Yes,Yes,Friends,Not applicable,No,Yes,Yes,Yes,6
+4/8/2021 2:02:29,1st year,Very bad,9,Male,20,Sister's House,Single,No,1,Bad,Yes,Yes,Yes,Family,Not applicable,Maybe,Neutral,No,Yes,6
+4/8/2021 2:04:29,3rd year,Very good,98,Male,22,Town,Single,Yes,5,Good,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,Yes,9
+4/8/2021 2:06:29,3rd year,Bad,32,Male,22,Tour,Single,Yes,3,Normal,Yes,No,Yes,Family,No,Yes,Neutral,No,No,7
+4/8/2021 2:08:29,2nd year,Very good,98,Male,21,Town,Single,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4/8/2021 2:11:29,4th year,Good,78,Male,23,Mosque,Single,Yes,4,Good,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,Yes,6
+4/8/2021 2:13:29,2nd year,Very bad,19,Male,21,Mosque,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,No,No,No,3
+4/8/2021 2:16:29,3rd year,Bad,41,Male,22,Home,Single,No,1,Normal,Yes,Yes,No,Friends,No,Maybe,Neutral,No,Yes,5
+4/8/2021 2:19:30,2nd year,Very bad,15,Male,21,Playground,Single,Yes,2,Bad,Yes,Yes,No,Not applicable,Yes,Yes,No,No,No,5
+4/8/2021 2:22:30,2nd year,Normal,52,Male,21,Tour,Single,No,5,Good,No,Yes,Yes,Friends,No,Maybe,Neutral,No,Yes,7
+4/8/2021 2:24:30,2nd year,Good,89,Male,21,Playground,Single,Yes,4,Good,No,Yes,Yes,Friends,No,No,Neutral,No,Yes,9
+4/8/2021 2:26:30,2nd year,Very bad,17,Male,21,Mosque,Single,Yes,3,Good,Yes,No,Yes,Friends,Not applicable,Yes,Neutral,No,Yes,6
+4/8/2021 2:28:30,3rd year,Very good,94,Male,22,Hall-Mess,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Neutral,No,Yes,10
+4/8/2021 2:31:30,4th year,Normal,53,Male,23,Tour,Single,Yes,3,Good,Yes,No,No,Not applicable,Yes,No,Yes,No,Yes,6
+4/8/2021 2:34:30,3rd year,Normal,50,Male,22,Home,Single,Yes,4,Normal,No,No,No,Friends,Yes,No,Neutral,No,No,6
+4/8/2021 2:37:30,1st year,Very good,95,Male,20,Mosque,Single,Yes,5,Good,No,Yes,Yes,Friends,No,No,Neutral,No,No,7
+4/8/2021 2:39:31,1st year,Normal,60,Male,20,Town,Single,Yes,5,Normal,No,No,No,Family,No,No,Yes,Yes,Yes,6
+4/8/2021 2:41:31,2nd year,Very good,94,Male,21,Town,Single,Yes,4,Good,No,No,Yes,Friends,No,No,Yes,No,Yes,7
+4/8/2021 2:43:31,2nd year,Good,73,Male,21,Restaurant,Single,Yes,5,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,9
+4/8/2021 2:46:31,3rd year,Very bad,5,Male,22,Restaurant,Single,No,2,Good,Yes,No,No,Friends,No,Yes,Neutral,Yes,Yes,7
+4/8/2021 2:49:31,2nd year,Very bad,4,Male,21,Mosque,Single,Yes,1,Good,Yes,Yes,Yes,Not applicable,No,Maybe,No,No,No,3
+4/8/2021 2:51:31,3rd year,Very bad,16,Male,22,Aunt's House,Single,Yes,1,Normal,Yes,Yes,Yes,Family,No,No,Neutral,Yes,No,7
+4/8/2021 2:53:31,3rd year,Very bad,3,Male,22,Friend's House,Single,Yes,2,Normal,Yes,Yes,No,Not applicable,Yes,No,Neutral,No,Yes,3
+4/8/2021 2:56:31,1st year,Normal,57,Male,20,Playground,Single,No,3,Normal,Yes,Yes,No,Friends,No,Maybe,Neutral,No,Yes,7
+4/8/2021 2:58:32,1st year,Very bad,7,Male,20,Restaurant,Single,Yes,3,Normal,Yes,No,No,Family,No,No,Neutral,Yes,Yes,7
+4/8/2021 3:01:32,4th year,Very good,98,Male,23,Tour,Single,Yes,5,Normal,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,No,6
+4/8/2021 3:04:32,2nd year,Normal,67,Male,21,Restaurant,Single,No,4,Good,Yes,No,No,Family,Yes,Maybe,Yes,Yes,Yes,7
+4/8/2021 3:07:32,2nd year,Very good,91,Male,21,Home,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Neutral,No,Yes,8
+4/8/2021 3:09:32,2nd year,Normal,56,Male,21,Sister's House,Single,No,4,Normal,No,Yes,Yes,Friends,Not applicable,No,Yes,Yes,No,8
+4/8/2021 3:12:32,4th year,Very bad,18,Male,23,Town,Single,Yes,2,Bad,Yes,No,No,Not applicable,No,No,No,No,No,3
+4/8/2021 3:14:32,4th year,Normal,56,Male,23,Home,Single,Yes,3,Normal,Yes,No,No,Family,Not applicable,No,Neutral,Yes,Yes,8
+4/8/2021 3:16:32,3rd year,Very good,91,Male,22,Hall-Mess,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+4/8/2021 3:18:32,3rd year,Very good,95,Male,22,Aunt's House,Single,Yes,5,Normal,No,Yes,Yes,Family,No,No,Yes,No,Yes,9
+4/8/2021 3:21:32,2nd year,Normal,51,Male,21,Tour,Single,Yes,5,Good,Yes,Yes,No,Family,Yes,Maybe,Neutral,Yes,Yes,7
+4/8/2021 3:24:32,1st year,Very good,91,Male,20,Tour,Single,Yes,5,Normal,No,Yes,Yes,Family,Not applicable,No,Neutral,No,Yes,10
+4/8/2021 3:26:33,3rd year,Very bad,18,Male,22,Department,Single,No,1,Bad,Yes,No,Yes,Family,Yes,Maybe,Neutral,No,No,7
+4/8/2021 3:29:33,1st year,Very bad,17,Male,20,Home,Single,Yes,1,Normal,Yes,Yes,No,Friends,Not applicable,No,No,Yes,Yes,5
+4/8/2021 3:32:33,3rd year,Normal,69,Male,22,Tour,Single,No,5,Good,No,No,Yes,Not applicable,Not applicable,No,Yes,No,No,6
+4/8/2021 3:35:33,3rd year,Very good,93,Male,22,Aunt's House,Single,Yes,3,Normal,No,Yes,Yes,Friends,Not applicable,No,Yes,No,Yes,8
+4/8/2021 3:37:33,1st year,Good,74,Male,20,Town,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+4/8/2021 3:39:33,2nd year,Normal,64,Male,21,Town,Single,Yes,3,Good,Yes,Yes,Yes,Friends,Not applicable,Maybe,Yes,No,No,6
+4/8/2021 3:42:33,4th year,Bad,29,Male,23,Playground,Single,Yes,3,Normal,Yes,Yes,No,Not applicable,Yes,Yes,Yes,No,Yes,3
+4/8/2021 3:44:33,4th year,Very good,94,Male,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+4/8/2021 3:46:34,2nd year,Very bad,11,Male,21,Home,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,Yes,Yes,6
+4/8/2021 3:49:34,3rd year,Bad,29,Male,22,Playground,Single,Yes,1,Bad,Yes,No,Yes,Not applicable,No,Yes,Neutral,No,No,4
+4/8/2021 3:52:34,2nd year,Normal,66,Male,21,Home,Single,No,3,Good,No,No,No,Friends,Not applicable,Maybe,Neutral,No,No,6
+4/8/2021 3:55:34,2nd year,Very good,92,Male,21,Playground,Single,Yes,5,Normal,No,No,Yes,Friends,No,No,Yes,No,Yes,10
+4/8/2021 3:57:34,2nd year,Very good,94,Male,21,Department,Single,Yes,5,Good,No,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,No,6
+4/8/2021 3:59:34,4th year,Very bad,4,Male,23,Town,Single,Yes,1,Good,Yes,No,Yes,Not applicable,Yes,Maybe,Yes,Yes,Yes,4
+4/8/2021 4:02:34,4th year,Very bad,19,Male,23,Town,Single,No,2,Bad,Yes,No,Yes,Friends,Yes,No,Neutral,Yes,Yes,7
+4/8/2021 4:05:34,1st year,Very good,100,Male,20,Playground,Single,Yes,4,Good,No,No,Yes,Not applicable,No,No,Yes,No,Yes,9
+4/8/2021 4:08:35,3rd year,Good,78,Male,22,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,6
+4/8/2021 4:10:35,4th year,Normal,70,Male,23,Hall-Mess,Single,Yes,5,Good,No,No,No,Not applicable,No,No,Yes,No,No,6
+4/8/2021 4:13:35,3rd year,Very good,91,Male,22,Home,Single,Yes,5,Normal,No,No,Yes,Not applicable,Not applicable,No,Yes,No,Yes,7
+4/8/2021 4:15:35,3rd year,Very bad,15,Male,22,Playground,Single,Yes,1,Normal,Yes,No,No,Not applicable,No,Maybe,No,Yes,No,4
+4/8/2021 4:17:35,3rd year,Very good,92,Male,22,Department,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,10
+4/8/2021 4:19:35,4th year,Bad,29,Male,23,Town,Single,Yes,1,Normal,Yes,Yes,No,Family,No,Maybe,Yes,Yes,No,5
+4/8/2021 4:21:35,3rd year,Normal,63,Male,22,Town,Single,No,4,Normal,No,No,No,Friends,No,Maybe,Yes,Yes,No,6
+4/8/2021 4:24:35,1st year,Normal,58,Male,20,Playground,Single,No,3,Normal,Yes,Yes,Yes,Not applicable,Yes,Maybe,Neutral,No,Yes,8
+4/8/2021 4:26:35,2nd year,Normal,63,Male,21,Tour,Single,No,3,Good,Yes,Yes,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+4/8/2021 4:28:35,1st year,Bad,27,Male,20,Playground,Single,No,3,Bad,Yes,No,No,Family,Not applicable,Maybe,No,Yes,Yes,6
+4/8/2021 4:31:36,3rd year,Good,74,Male,22,Tour,Single,Yes,4,Normal,No,Yes,Yes,Friends,No,No,Yes,No,Yes,6
+4/8/2021 4:34:36,4th year,Good,81,Male,23,Playground,Single,Yes,5,Normal,No,Yes,Yes,Friends,Not applicable,No,Yes,No,No,8
+4/8/2021 4:36:36,4th year,Very bad,10,Male,23,Department,Single,No,1,Good,Yes,Yes,No,Not applicable,Yes,No,Neutral,No,No,5
+4/8/2021 4:39:36,4th year,Normal,58,Male,23,Town,Single,Yes,4,Good,No,Yes,Yes,Friends,No,No,Neutral,Yes,No,7
+4/8/2021 4:42:36,3rd year,Good,72,Male,22,Hall-Mess,Single,Yes,5,Good,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,No,7
+4/8/2021 4:44:36,1st year,Very bad,5,Male,20,Department,Single,Yes,3,Good,Yes,No,Yes,Friends,No,No,No,No,Yes,5
+4/8/2021 4:47:36,2nd year,Bad,35,Male,21,Department,Single,Yes,2,Normal,Yes,Yes,Yes,Friends,Not applicable,Yes,No,No,Yes,4
+4/8/2021 4:49:36,3rd year,Bad,23,Male,22,Town,Single,No,1,Normal,Yes,No,No,Family,Not applicable,Yes,Yes,No,No,5
+4/8/2021 4:52:36,1st year,Normal,51,Male,20,Playground,Single,Yes,3,Normal,Yes,No,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,7
+4/8/2021 8:28:06,4th year,Good,80,Male,23,Department,Single,Yes,4,Good,No,Yes,Yes,Family,Not applicable,No,Neutral,No,No,10
+4/8/2021 8:30:06,3rd year,Good,73,Male,22,Town,Single,Yes,4,Good,No,Yes,Yes,Family,No,No,Yes,No,No,7
+4/8/2021 8:33:06,4th year,Normal,53,Male,23,Department,Single,Yes,4,Normal,Yes,Yes,No,Friends,Yes,Maybe,Yes,Yes,No,6
+4/8/2021 8:35:06,2nd year,Good,82,Male,21,Mosque,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,10
+4/8/2021 8:37:06,1st year,Very good,95,Male,20,Playground,Single,Yes,4,Good,No,No,Yes,Family,Not applicable,No,Neutral,No,Yes,10
+4/8/2021 8:39:06,1st year,Normal,54,Male,20,Playground,Single,Yes,4,Good,No,Yes,Yes,Not applicable,Not applicable,No,Yes,Yes,Yes,6
+4/8/2021 8:41:07,4th year,Very bad,12,Male,23,Playground,Single,Yes,1,Good,Yes,No,No,Friends,Not applicable,No,Yes,Yes,Yes,3
+4/8/2021 8:44:07,4th year,Good,79,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Neutral,No,Yes,9
+4/8/2021 8:47:07,3rd year,Bad,40,Male,22,Department,Single,No,3,Bad,Yes,No,Yes,Not applicable,Yes,Yes,Neutral,No,No,6
+4/8/2021 8:49:07,1st year,Normal,67,Male,20,Department,Single,Yes,5,Good,Yes,Yes,Yes,Not applicable,No,No,Neutral,Yes,No,8
+4/8/2021 8:52:07,4th year,Very bad,4,Male,23,Hall-Mess,Single,Yes,3,Bad,Yes,Yes,No,Not applicable,Yes,Maybe,Neutral,No,No,7
+4/8/2021 8:54:07,4th year,Good,79,Male,23,Department,Single,Yes,5,Normal,No,No,Yes,Friends,Yes,No,Yes,No,No,7
+4/8/2021 8:57:07,1st year,Normal,53,Male,20,Hall-Mess,Single,No,3,Normal,Yes,Yes,No,Friends,Not applicable,No,Neutral,Yes,No,8
+4/8/2021 9:00:07,3rd year,Very bad,10,Male,22,Department,Single,Yes,1,Bad,Yes,Yes,No,Not applicable,Not applicable,No,Neutral,Yes,No,3
+4/8/2021 9:03:07,3rd year,Good,81,Male,22,Home,Single,Yes,5,Good,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,8
+4/8/2021 9:05:08,3rd year,Very bad,10,Male,22,Hall-Mess,Single,Yes,1,Good,Yes,Yes,No,Friends,Yes,Maybe,No,Yes,No,5
+4/8/2021 9:07:08,3rd year,Very bad,5,Male,22,Department,Single,Yes,1,Good,Yes,No,Yes,Not applicable,Not applicable,Maybe,Yes,No,No,7
+4/8/2021 9:09:08,1st year,Bad,43,Male,20,Mosque,Single,Yes,2,Normal,Yes,Yes,Yes,Family,No,Maybe,Yes,No,Yes,3
+4/8/2021 9:12:08,4th year,Very bad,11,Male,23,Home,Single,Yes,3,Good,Yes,Yes,No,Family,Not applicable,Maybe,Yes,Yes,No,6
+4/8/2021 9:14:08,4th year,Very bad,12,Male,23,Hall-Mess,Single,Yes,3,Good,Yes,Yes,Yes,Family,Not applicable,No,Neutral,No,Yes,6
+4/8/2021 9:17:08,3rd year,Very good,96,Male,22,Hall-Mess,Single,Yes,4,Normal,No,Yes,Yes,Friends,Not applicable,No,Neutral,No,Yes,10
+4/8/2021 9:20:08,2nd year,Bad,25,Male,21,Department,Single,Yes,3,Bad,Yes,No,No,Friends,Not applicable,Maybe,Neutral,Yes,No,3
+4/8/2021 9:22:08,1st year,Very bad,9,Male,20,Mosque,Single,Yes,2,Bad,Yes,Yes,No,Family,Not applicable,Maybe,Neutral,No,Yes,3
+4/8/2021 9:24:08,4th year,Very bad,14,Male,23,Playground,Single,No,1,Bad,Yes,No,No,Family,Yes,Maybe,No,Yes,Yes,6
+4/8/2021 9:27:09,4th year,Normal,68,Male,23,Department,Single,Yes,3,Good,Yes,No,No,Friends,No,No,Yes,Yes,No,7
+4/8/2021 9:29:09,4th year,Very bad,15,Male,23,Department,Single,Yes,1,Normal,Yes,No,No,Friends,Not applicable,Yes,Neutral,Yes,No,3
+4/8/2021 9:32:09,4th year,Bad,23,Male,23,Department,Single,No,1,Good,Yes,Yes,Yes,Not applicable,Yes,Yes,Neutral,No,Yes,7
+4/8/2021 9:35:09,2nd year,Normal,59,Male,21,Town,Single,No,3,Normal,No,Yes,No,Family,Yes,No,Neutral,No,No,8
+4/8/2021 9:38:09,3rd year,Bad,33,Male,22,Department,Single,Yes,2,Good,Yes,Yes,Yes,Friends,Not applicable,Maybe,Neutral,Yes,No,3
+4/8/2021 9:41:10,3rd year,Very good,93,Male,22,Mosque,Single,Yes,4,Normal,No,No,Yes,Not applicable,Not applicable,No,Yes,No,Yes,8
+4/8/2021 9:43:10,3rd year,Very bad,16,Male,22,Playground,Single,Yes,1,Normal,Yes,Yes,Yes,Not applicable,No,No,Neutral,Yes,Yes,4
+4/8/2021 9:45:12,4th year,Very good,94,Male,23,Playground,Single,Yes,4,Good,No,No,Yes,Friends,No,No,Neutral,No,Yes,7
+4/8/2021 9:47:13,1st year,Good,77,Male,20,Mosque,Single,Yes,4,Normal,No,Yes,Yes,Friends,No,No,Yes,No,No,7
+4/8/2021 9:50:13,4th year,Bad,28,Male,23,Department,Single,No,1,Good,Yes,Yes,Yes,Friends,Yes,Maybe,Neutral,Yes,No,5
+4/8/2021 9:53:13,3rd year,Very bad,16,Male,22,Department,Single,No,3,Good,Yes,Yes,No,Family,Not applicable,No,No,No,No,5
+4/8/2021 9:56:13,1st year,Bad,24,Male,20,Playground,Single,Yes,2,Good,Yes,Yes,Yes,Not applicable,Not applicable,No,Neutral,Yes,No,3
+4/8/2021 9:58:13,2nd year,Very good,98,Male,21,Town,Single,Yes,3,Normal,No,No,Yes,Family,Not applicable,No,Neutral,No,No,6
+9/20/2021 11:48:50,3rd year,Very good,90,Male,22,Hall-Mess,Single,Yes,4,Normal,No,Yes,Yes,Friends,No,No,Yes,No,No,8
+9/20/2021 11:51:48,2nd year,Very good,95,Male,21,Tour,Single,Yes,3,Normal,No,No,Yes,Friends,Not applicable,No,Neutral,No,No,10
+9/20/2021 11:53:48,4th year,Very bad,3,Male,23,Mosque,Single,Yes,3,Bad,Yes,Yes,No,Friends,No,No,Neutral,Yes,Yes,6
+9/20/2021 11:55:48,1st year,Very good,95,Male,20,Playground,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+9/20/2021 11:58:48,4th year,Bad,49,Male,23,Town,Single,No,2,Good,Yes,Yes,No,Not applicable,Yes,No,Neutral,No,No,4
+9/20/2021 12:01:49,3rd year,Very bad,11,Male,22,Sister's House,Single,No,3,Good,Yes,No,No,Friends,Not applicable,Yes,Yes,No,No,4
+9/20/2021 12:03:49,2nd year,Good,80,Male,21,Town,Single,Yes,4,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,No,9
+9/20/2021 12:06:49,3rd year,Normal,67,Male,22,Town,Single,No,5,Normal,Yes,No,Yes,Not applicable,No,No,Yes,Yes,Yes,8
+9/20/2021 12:08:50,2nd year,Good,89,Male,21,Sister's House,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+9/20/2021 12:11:49,2nd year,Normal,56,Male,21,Sister's House,Single,No,3,Normal,Yes,No,Yes,Not applicable,Not applicable,Maybe,Neutral,No,No,8
+9/20/2021 12:18:17,1st year,Normal,67,Male,20,Friend's House,Single,Yes,3,Normal,Yes,Yes,No,Family,Not applicable,Maybe,Yes,No,No,6
+9/20/2021 12:20:18,1st year,Bad,37,Male,20,Cousin's House,Single,Yes,1,Bad,Yes,Yes,No,Family,Not applicable,Yes,Neutral,No,Yes,3
+9/20/2021 12:23:18,1st year,Very good,98,Male,20,Aunt's House,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,No,6
+9/20/2021 12:26:18,1st year,Good,84,Male,20,Mosque,Single,Yes,3,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,9
+9/20/2021 12:28:18,2nd year,Normal,55,Male,21,Restaurant,Single,No,3,Good,Yes,No,No,Not applicable,Yes,No,Yes,Yes,Yes,8
+9/20/2021 12:30:18,4th year,Normal,53,Male,23,Sister's House,Single,Yes,3,Good,Yes,Yes,No,Friends,Yes,Maybe,Neutral,No,No,7
+9/20/2021 12:32:18,2nd year,Very bad,6,Male,21,Aunt's House,Single,Yes,1,Good,Yes,No,No,Not applicable,Yes,No,Neutral,Yes,No,3
+9/20/2021 12:34:18,1st year,Very good,93,Male,20,Restaurant,Single,Yes,5,Good,No,Yes,Yes,Not applicable,Yes,No,Yes,No,Yes,8
+9/20/2021 12:36:18,3rd year,Good,72,Male,22,Department,Single,Yes,3,Good,No,No,Yes,Family,Not applicable,No,Yes,No,No,6
+9/20/2021 12:38:18,3rd year,Normal,56,Male,22,Friend's House,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Yes,No,Yes,Yes,No,7
+9/20/2021 12:41:19,3rd year,Normal,69,Male,22,Home,Single,No,5,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,8
+9/20/2021 12:44:19,1st year,Very bad,16,Male,20,Aunt's House,Single,No,2,Bad,Yes,No,No,Family,Yes,Maybe,Yes,No,No,5
+9/20/2021 12:46:19,1st year,Very bad,9,Male,20,Playground,Single,Yes,3,Normal,Yes,Yes,No,Friends,Not applicable,Yes,Yes,No,No,3
+9/20/2021 12:49:20,3rd year,Normal,59,Male,22,Town,Single,Yes,5,Good,Yes,Yes,No,Family,Yes,No,Neutral,No,No,8
+9/20/2021 12:51:19,1st year,Very good,97,Male,20,Home,Single,Yes,5,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+9/20/2021 12:53:19,3rd year,Very bad,1,Male,22,Friend's House,Single,Yes,2,Good,Yes,No,No,Not applicable,Not applicable,Maybe,Neutral,Yes,Yes,5
+9/20/2021 12:56:19,4th year,Very bad,11,Male,23,Friend's House,Single,No,2,Bad,Yes,No,Yes,Friends,Not applicable,No,Neutral,Yes,No,7
+9/20/2021 12:59:20,1st year,Very bad,18,Male,20,Restaurant,Single,Yes,1,Normal,Yes,Yes,No,Not applicable,Yes,No,No,No,Yes,4
+9/20/2021 13:01:20,4th year,Very bad,12,Male,23,Hall-Mess,Single,Yes,1,Good,Yes,No,No,Family,No,Maybe,No,No,No,7
+9/20/2021 13:03:21,1st year,Very bad,3,Male,20,Department,Single,Yes,2,Normal,Yes,Yes,Yes,Not applicable,No,Yes,Neutral,Yes,No,6
+9/20/2021 13:06:20,3rd year,Very good,99,Male,22,Friend's House,Single,Yes,5,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,8
+9/20/2021 13:08:20,4th year,Very good,93,Male,23,Hall-Mess,Single,Yes,5,Normal,No,No,Yes,Friends,No,No,Yes,No,Yes,10
+9/20/2021 13:10:21,4th year,Good,85,Male,23,Tour,Single,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+9/20/2021 13:12:21,1st year,Very good,100,Male,20,Town,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,No,No,Neutral,No,No,7
+9/20/2021 13:15:21,3rd year,Bad,27,Male,22,Mosque,Single,Yes,2,Good,Yes,No,No,Not applicable,Yes,Maybe,Yes,Yes,Yes,4
+9/20/2021 13:18:21,1st year,Very good,93,Male,20,Sister's House,Single,Yes,3,Good,No,Yes,Yes,Friends,Not applicable,No,Neutral,No,Yes,9
+9/20/2021 13:21:21,4th year,Good,70,Male,23,Aunt's House,Single,Yes,3,Good,No,No,Yes,Friends,Yes,No,Yes,No,Yes,6
+9/20/2021 13:24:21,4th year,Good,87,Male,23,Hall-Mess,Single,Yes,4,Good,No,No,Yes,Friends,Not applicable,No,Neutral,No,Yes,8
+9/20/2021 13:26:21,2nd year,Bad,34,Male,21,Town,Single,No,2,Bad,Yes,Yes,Yes,Not applicable,Yes,Yes,No,No,No,7
+9/20/2021 13:28:22,4th year,Very good,98,Male,23,Home,Single,Yes,4,Good,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,8
+9/20/2021 13:30:21,4th year,Normal,68,Male,23,Sister's House,Single,Yes,3,Normal,Yes,No,Yes,Not applicable,Yes,No,Neutral,Yes,Yes,7
+9/20/2021 13:32:22,1st year,Normal,50,Male,20,Home,Single,No,3,Normal,Yes,Yes,No,Friends,Yes,No,Neutral,No,No,6
+9/20/2021 13:34:22,3rd year,Very bad,14,Male,22,Cousin's House,Single,No,3,Good,Yes,No,Yes,Family,No,Yes,No,Yes,Yes,4
+9/20/2021 13:37:22,1st year,Very good,96,Male,20,Friend's House,Single,Yes,3,Good,No,No,Yes,Friends,Not applicable,No,Neutral,No,Yes,6
+9/20/2021 13:40:22,1st year,Good,84,Male,20,Friend's House,Single,Yes,5,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,7
+9/20/2021 13:42:22,3rd year,Good,76,Male,22,Playground,Single,Yes,4,Normal,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,7
+9/20/2021 13:44:22,4th year,Very bad,13,Male,23,Friend's House,Single,No,2,Bad,Yes,No,No,Friends,Yes,Yes,Neutral,Yes,Yes,4
+9/20/2021 13:46:22,1st year,Normal,63,Male,20,Restaurant,Single,No,5,Good,Yes,No,No,Friends,Not applicable,No,Yes,Yes,No,7
+9/20/2021 13:48:22,1st year,Very bad,8,Male,20,Hall-Mess,Single,No,3,Good,Yes,No,Yes,Friends,No,Yes,No,Yes,No,4
+9/20/2021 13:50:22,4th year,Very good,97,Male,23,Tour,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,No,7
+9/20/2021 13:53:23,4th year,Normal,60,Male,23,Restaurant,Single,No,3,Good,Yes,No,Yes,Not applicable,Not applicable,No,Neutral,Yes,Yes,6
+9/20/2021 13:56:23,2nd year,Very good,99,Male,21,Friend's House,Single,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,10
+9/20/2021 13:58:23,3rd year,Bad,43,Male,22,Hall-Mess,Single,No,1,Good,Yes,Yes,Yes,Family,No,Yes,Neutral,No,Yes,5
+9/20/2021 14:01:23,1st year,Good,79,Male,20,Department,Single,Yes,3,Good,No,No,Yes,Not applicable,Not applicable,No,Yes,No,Yes,9
+9/20/2021 14:03:23,3rd year,Normal,57,Male,22,Town,Single,Yes,5,Good,Yes,Yes,No,Friends,Yes,Maybe,Yes,No,Yes,8
+9/20/2021 14:06:24,1st year,Very good,91,Male,20,Friend's House,Single,Yes,5,Normal,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,6
+9/20/2021 14:09:24,3rd year,Bad,28,Male,22,Cousin's House,Single,Yes,2,Normal,Yes,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,5
+9/20/2021 14:11:24,3rd year,Bad,31,Male,22,Restaurant,Single,Yes,1,Good,Yes,Yes,Yes,Family,Not applicable,Maybe,Neutral,Yes,No,7
+9/20/2021 14:14:24,2nd year,Very good,95,Male,21,Sister's House,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,No,10
+9/20/2021 14:17:24,1st year,Very good,93,Male,20,Cousin's House,Single,Yes,4,Normal,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,9
+9/20/2021 14:19:54,4th year,Good,78,Male,23,Hall-Mess,Single,Yes,4,Normal,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,8
+9/20/2021 14:21:54,3rd year,Bad,33,Male,22,Mosque,Single,Yes,1,Normal,Yes,No,No,Friends,No,Maybe,Neutral,Yes,No,5
+9/20/2021 14:24:54,2nd year,Bad,35,Male,21,Aunt's House,Single,No,1,Normal,Yes,Yes,Yes,Family,No,Maybe,Neutral,Yes,No,7
+9/20/2021 14:26:54,3rd year,Very good,99,Male,22,Hall-Mess,Single,Yes,3,Normal,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,9
+9/20/2021 14:29:55,1st year,Good,85,Male,20,Mosque,Single,Yes,4,Good,No,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,6
+9/20/2021 14:32:55,4th year,Normal,55,Male,23,Hall-Mess,Single,No,5,Good,Yes,No,No,Friends,No,Maybe,Neutral,No,No,6
+9/20/2021 14:34:55,2nd year,Bad,41,Male,21,Cousin's House,Single,No,2,Good,Yes,No,No,Friends,Yes,Maybe,No,Yes,No,7
+9/20/2021 14:36:55,2nd year,Very good,93,Male,21,Cousin's House,Single,Yes,5,Normal,No,No,Yes,Family,Yes,No,Neutral,No,Yes,9
+9/20/2021 14:38:55,2nd year,Very good,90,Male,21,Home,Single,Yes,3,Normal,No,Yes,Yes,Family,No,No,Yes,No,No,9
+9/20/2021 14:41:55,4th year,Very good,95,Male,23,Friend's House,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,No,7
+9/20/2021 14:44:55,4th year,Good,77,Male,23,Cousin's House,Single,Yes,4,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,8
+9/20/2021 14:47:55,1st year,Bad,28,Male,20,Tour,Single,Yes,1,Normal,Yes,No,No,Friends,Yes,Yes,Neutral,No,Yes,5
+9/20/2021 14:49:55,1st year,Very good,95,Male,20,Sister's House,Single,Yes,3,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+9/20/2021 14:51:56,3rd year,Bad,28,Male,22,Playground,Single,No,3,Normal,Yes,Yes,Yes,Family,No,Yes,Neutral,No,No,5
+9/20/2021 14:53:55,1st year,Normal,69,Male,20,Department,Single,Yes,5,Normal,No,Yes,No,Friends,No,Maybe,Yes,No,Yes,7
+9/20/2021 14:55:55,4th year,Bad,43,Male,23,Sister's House,Single,No,1,Bad,Yes,Yes,Yes,Friends,No,Maybe,Yes,No,Yes,3
+9/20/2021 14:57:55,1st year,Bad,34,Male,20,Hall-Mess,Single,Yes,2,Normal,Yes,No,No,Family,Not applicable,No,No,Yes,Yes,3
+9/20/2021 15:00:56,4th year,Bad,39,Male,23,Town,Single,No,1,Bad,Yes,No,Yes,Family,Not applicable,Yes,Neutral,No,No,6
+9/20/2021 15:02:56,2nd year,Good,85,Male,21,Cousin's House,Single,Yes,4,Normal,No,No,Yes,Not applicable,Not applicable,No,Yes,No,No,8
+9/20/2021 15:05:56,1st year,Normal,69,Male,20,Hall-Mess,Single,Yes,3,Normal,Yes,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,7
+9/20/2021 15:08:56,3rd year,Normal,62,Male,22,Tour,Single,Yes,4,Normal,Yes,Yes,No,Not applicable,Not applicable,No,Neutral,Yes,Yes,7
+9/20/2021 15:11:58,1st year,Very bad,17,Male,20,Restaurant,Single,Yes,1,Bad,Yes,Yes,Yes,Friends,Yes,Maybe,No,No,No,6
+9/20/2021 15:14:56,2nd year,Normal,60,Male,21,Mosque,Single,No,3,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Neutral,Yes,Yes,6
+9/20/2021 15:17:57,2nd year,Good,71,Male,21,Sister's House,Single,Yes,3,Normal,No,Yes,Yes,Family,Not applicable,No,Yes,No,No,6
+9/20/2021 15:20:56,3rd year,Very good,91,Male,22,Department,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+9/20/2021 15:23:57,3rd year,Normal,69,Male,22,Playground,Single,No,4,Good,Yes,No,No,Not applicable,Yes,Maybe,Yes,Yes,Yes,7
+9/20/2021 15:25:57,3rd year,Very good,95,Male,22,Playground,Single,Yes,3,Good,No,No,Yes,Friends,No,No,Yes,No,Yes,8
+9/20/2021 15:27:57,2nd year,Very bad,18,Male,21,Home,Single,Yes,3,Bad,Yes,Yes,No,Family,No,Yes,Yes,Yes,Yes,5
+9/20/2021 15:29:57,2nd year,Bad,29,Male,21,Mosque,Single,Yes,3,Bad,Yes,Yes,No,Not applicable,No,No,No,Yes,No,4
+9/20/2021 15:31:57,1st year,Good,73,Male,20,Sister's House,Single,Yes,3,Good,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,9
+9/20/2021 15:33:57,1st year,Very bad,6,Male,20,Cousin's House,Single,Yes,2,Bad,Yes,No,Yes,Friends,Not applicable,No,Yes,Yes,No,5
+9/20/2021 15:35:57,1st year,Very good,99,Male,20,Home,Single,Yes,5,Normal,No,No,Yes,Family,Yes,No,Neutral,No,Yes,6
+9/20/2021 15:38:57,2nd year,Very good,93,Male,21,Home,Single,Yes,4,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,9
+9/20/2021 15:41:58,1st year,Normal,67,Male,20,Department,Single,No,4,Normal,No,Yes,Yes,Not applicable,No,Maybe,Yes,Yes,No,8
+9/20/2021 15:43:58,2nd year,Bad,48,Male,21,Department,Single,Yes,2,Good,Yes,No,No,Not applicable,Yes,Yes,No,No,Yes,5
+9/20/2021 15:46:58,1st year,Very good,100,Male,20,Playground,Single,Yes,4,Normal,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+9/20/2021 15:49:58,1st year,Normal,51,Male,20,Department,Single,No,3,Normal,Yes,Yes,No,Friends,No,Maybe,Yes,Yes,Yes,6
+9/20/2021 15:51:58,1st year,Very bad,15,Male,20,Mosque,Single,No,3,Normal,Yes,Yes,Yes,Not applicable,Yes,No,No,Yes,Yes,5
+9/20/2021 15:54:58,3rd year,Very good,100,Male,22,Home,Single,Yes,5,Normal,No,No,Yes,Not applicable,No,No,Yes,No,No,6
+9/20/2021 15:57:58,2nd year,Very bad,17,Male,21,Aunt's House,Single,No,3,Normal,Yes,No,Yes,Family,No,Maybe,Neutral,Yes,Yes,3
+9/20/2021 16:00:58,3rd year,Good,75,Male,22,Sister's House,Single,Yes,4,Good,No,No,Yes,Friends,Not applicable,No,Neutral,No,No,7
+9/20/2021 16:02:58,3rd year,Very good,97,Male,22,Sister's House,Single,Yes,5,Normal,No,No,Yes,Not applicable,No,No,Neutral,No,Yes,7
+9/20/2021 16:05:59,3rd year,Bad,48,Male,22,Town,Single,Yes,2,Normal,Yes,Yes,No,Not applicable,Not applicable,No,Yes,Yes,Yes,3
+9/20/2021 16:08:00,4th year,Normal,65,Male,23,Mosque,Single,Yes,3,Good,Yes,Yes,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+9/20/2021 16:10:59,2nd year,Good,89,Male,21,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Friends,Not applicable,No,Neutral,No,No,8
+9/20/2021 16:12:59,2nd year,Very good,97,Male,21,Cousin's House,Single,Yes,5,Good,No,Yes,Yes,Friends,Not applicable,No,Neutral,No,Yes,9
+9/20/2021 16:15:59,2nd year,Very good,91,Male,21,Playground,Single,Yes,4,Good,No,No,Yes,Friends,Not applicable,No,Yes,No,No,6
+9/20/2021 16:19:00,4th year,Normal,55,Male,23,Friend's House,Single,No,5,Good,No,Yes,No,Not applicable,No,No,Yes,No,No,7
+9/20/2021 16:21:59,4th year,Good,82,Male,23,Mosque,Single,Yes,3,Good,No,Yes,Yes,Family,Not applicable,No,Yes,No,No,7
+9/20/2021 16:24:00,2nd year,Bad,48,Male,21,Home,Single,Yes,1,Bad,Yes,No,Yes,Family,Yes,Maybe,Neutral,Yes,No,7
+9/20/2021 16:26:00,2nd year,Good,72,Male,21,Aunt's House,Single,Yes,4,Good,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,Yes,8
+9/20/2021 16:28:00,2nd year,Good,81,Male,21,Department,Single,Yes,4,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,10
+9/20/2021 16:30:00,2nd year,Bad,26,Male,21,Hall-Mess,Single,Yes,3,Good,Yes,Yes,Yes,Family,No,Yes,Neutral,No,Yes,7
+9/20/2021 16:33:01,1st year,Good,82,Male,20,Playground,Single,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,10
+9/20/2021 16:35:01,2nd year,Bad,42,Male,21,Cousin's House,Single,Yes,1,Normal,Yes,Yes,No,Family,Yes,Yes,Yes,Yes,Yes,3
+9/20/2021 16:37:01,1st year,Good,79,Male,20,Cousin's House,Single,Yes,4,Normal,No,No,Yes,Family,No,No,Neutral,No,Yes,6
+9/20/2021 16:40:01,4th year,Very good,98,Male,23,Playground,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Neutral,No,Yes,7
+9/20/2021 16:43:00,4th year,Good,76,Male,23,Town,Single,Yes,3,Good,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,7
+9/20/2021 16:46:01,3rd year,Bad,44,Male,22,Tour,Single,Yes,2,Good,Yes,No,Yes,Family,Not applicable,Maybe,Neutral,No,Yes,3
+9/20/2021 16:48:01,1st year,Very bad,12,Male,20,Town,Single,No,1,Good,Yes,Yes,No,Not applicable,No,Yes,No,Yes,Yes,7
+9/20/2021 16:50:01,4th year,Good,89,Male,23,Restaurant,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,10
+9/20/2021 16:53:01,1st year,Very bad,7,Male,20,Playground,Single,No,3,Normal,Yes,Yes,No,Not applicable,Yes,No,No,No,Yes,5
+9/20/2021 16:56:01,1st year,Bad,21,Male,20,Home,Single,Yes,2,Normal,Yes,Yes,No,Not applicable,Not applicable,No,Neutral,No,Yes,6
+9/20/2021 16:59:01,1st year,Very bad,8,Male,20,Aunt's House,Single,No,3,Normal,Yes,No,No,Friends,Yes,No,Yes,Yes,Yes,7
+9/20/2021 17:01:01,1st year,Very good,91,Male,20,Mosque,Single,Yes,5,Normal,No,No,Yes,Friends,No,No,Neutral,No,No,6
+9/20/2021 17:04:01,4th year,Very bad,11,Male,23,Friend's House,Single,No,3,Good,Yes,Yes,Yes,Family,Not applicable,Yes,Neutral,Yes,Yes,5
+9/20/2021 17:07:01,3rd year,Very good,94,Male,22,Friend's House,Single,Yes,4,Good,No,No,Yes,Family,Not applicable,No,Neutral,No,No,6
+9/20/2021 17:10:02,1st year,Normal,64,Male,20,Tour,Single,No,4,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,Yes,Yes,8
+9/20/2021 17:12:02,3rd year,Good,72,Male,22,Aunt's House,Single,Yes,4,Normal,No,No,Yes,Not applicable,Not applicable,No,Yes,No,No,9
+9/20/2021 17:15:02,2nd year,Very bad,12,Male,21,Restaurant,Single,No,1,Normal,Yes,No,Yes,Family,Yes,No,Neutral,Yes,Yes,4
+9/20/2021 17:17:02,1st year,Good,80,Male,20,Friend's House,Single,Yes,3,Normal,No,No,Yes,Friends,Not applicable,No,Yes,No,No,6
+9/20/2021 17:19:02,1st year,Normal,65,Male,20,Tour,Single,No,3,Normal,Yes,Yes,Yes,Not applicable,Not applicable,Maybe,Yes,No,No,7
+9/20/2021 17:22:02,4th year,Very bad,17,Male,23,Tour,Single,No,3,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,No,Yes,No,7
+9/20/2021 17:24:03,2nd year,Good,79,Male,21,Mosque,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Neutral,No,No,6
+9/20/2021 17:26:03,3rd year,Very good,95,Male,22,Sister's House,Single,Yes,4,Good,No,No,Yes,Family,Not applicable,No,Yes,No,No,9
+9/20/2021 17:28:03,2nd year,Normal,54,Male,21,Cousin's House,Single,Yes,4,Good,No,Yes,No,Friends,No,Maybe,Yes,Yes,Yes,7
+9/20/2021 17:31:03,4th year,Normal,62,Male,23,Friend's House,Single,No,4,Good,Yes,No,No,Not applicable,No,Maybe,Neutral,No,No,7
+9/20/2021 17:33:03,1st year,Bad,40,Male,20,Cousin's House,Single,Yes,1,Normal,Yes,No,Yes,Not applicable,No,Yes,No,No,No,3
+9/20/2021 17:36:03,1st year,Bad,36,Male,20,Town,Single,No,1,Normal,Yes,No,No,Friends,No,No,Yes,No,No,6
+9/20/2021 17:39:03,4th year,Very good,99,Male,23,Home,Single,Yes,4,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,Yes,9
+9/20/2021 17:42:04,3rd year,Bad,45,Male,22,Town,Single,Yes,1,Normal,Yes,Yes,No,Not applicable,Yes,Maybe,No,Yes,Yes,5
+9/20/2021 17:45:04,4th year,Very good,99,Male,23,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+9/20/2021 17:48:04,1st year,Bad,31,Male,20,Sister's House,Single,No,2,Bad,Yes,No,No,Friends,Yes,Yes,No,No,Yes,5
+9/20/2021 17:50:04,2nd year,Very good,96,Male,21,Town,Single,Yes,5,Normal,No,Yes,Yes,Friends,No,No,Neutral,No,No,7
+9/20/2021 17:52:04,2nd year,Very good,100,Male,21,Hall-Mess,Single,Yes,4,Good,No,Yes,Yes,Family,Not applicable,No,Neutral,No,Yes,7
+9/20/2021 17:54:04,1st year,Very good,100,Male,20,Department,Single,Yes,3,Normal,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,6
+9/20/2021 17:56:05,3rd year,Normal,64,Male,22,Friend's House,Single,No,4,Normal,No,Yes,Yes,Not applicable,No,No,Neutral,No,No,6
+9/20/2021 17:58:04,2nd year,Good,79,Male,21,Mosque,Single,Yes,4,Normal,No,Yes,Yes,Friends,Not applicable,No,Yes,No,No,9
+9/20/2021 18:00:05,1st year,Bad,43,Male,20,Playground,Single,No,2,Bad,Yes,Yes,Yes,Family,Yes,Maybe,Neutral,Yes,Yes,4
+9/20/2021 18:02:05,4th year,Very good,92,Male,23,Cousin's House,Single,Yes,5,Good,No,No,Yes,Not applicable,No,No,Yes,No,No,7
+9/20/2021 18:04:05,3rd year,Very good,99,Male,22,Playground,Single,Yes,3,Normal,No,No,Yes,Not applicable,No,No,Neutral,No,Yes,10
+9/20/2021 18:07:06,1st year,Good,87,Male,20,Department,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,Yes,8
+9/20/2021 18:10:05,2nd year,Very bad,7,Male,21,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Maybe,Yes,Yes,Yes,6
+9/20/2021 18:12:05,1st year,Very good,90,Male,20,Playground,Single,Yes,4,Good,No,Yes,Yes,Friends,No,No,Neutral,No,Yes,9
+9/20/2021 18:15:05,1st year,Very bad,1,Male,20,Playground,Single,Yes,3,Bad,Yes,Yes,Yes,Friends,Not applicable,Maybe,Neutral,No,Yes,4
+9/20/2021 18:17:05,2nd year,Very bad,14,Male,21,Department,Single,No,3,Bad,Yes,No,No,Family,No,Maybe,Neutral,Yes,Yes,4
+9/20/2021 18:19:06,4th year,Very bad,9,Male,23,Aunt's House,Single,No,1,Normal,Yes,Yes,Yes,Friends,Not applicable,No,No,Yes,No,4
+9/20/2021 18:21:06,1st year,Very bad,17,Male,20,Mosque,Single,Yes,2,Normal,Yes,No,Yes,Family,Not applicable,No,Neutral,Yes,Yes,6
+9/20/2021 18:23:06,1st year,Good,89,Male,20,Restaurant,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,6
+9/20/2021 18:26:07,2nd year,Bad,40,Male,21,Restaurant,Single,No,3,Good,Yes,No,No,Family,No,No,Yes,No,No,6
+9/20/2021 18:28:06,4th year,Good,71,Male,23,Mosque,Single,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,Yes,10
+9/20/2021 18:30:06,2nd year,Very good,96,Male,21,Friend's House,Single,Yes,4,Good,No,No,Yes,Friends,Not applicable,No,Yes,No,Yes,10
+9/20/2021 18:33:07,4th year,Very bad,4,Male,23,Town,Single,Yes,3,Bad,Yes,No,Yes,Family,No,Maybe,Yes,No,Yes,5
+9/20/2021 18:36:06,2nd year,Very good,100,Male,21,Restaurant,Single,Yes,5,Good,No,Yes,Yes,Friends,Not applicable,No,Neutral,No,Yes,7
+9/20/2021 18:39:07,4th year,Good,72,Male,23,Department,Single,Yes,4,Normal,No,No,Yes,Not applicable,Not applicable,No,Yes,No,Yes,6
+9/20/2021 18:41:08,2nd year,Good,70,Male,21,Sister's House,Single,Yes,4,Normal,No,Yes,Yes,Family,Not applicable,No,Neutral,No,No,9
+9/20/2021 18:43:07,4th year,Good,85,Male,23,Department,Single,Yes,3,Normal,No,No,Yes,Friends,No,No,Yes,No,No,8
+9/20/2021 18:46:07,4th year,Good,89,Male,23,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,8
+9/20/2021 18:48:07,2nd year,Very good,92,Male,21,Playground,Single,Yes,4,Normal,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,10
+9/20/2021 18:51:07,3rd year,Very good,100,Male,22,Sister's House,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,9
+9/20/2021 18:53:07,3rd year,Normal,50,Male,22,Friend's House,Single,No,3,Normal,Yes,No,Yes,Friends,Not applicable,Maybe,Yes,No,No,6
+9/20/2021 18:55:08,2nd year,Bad,27,Male,21,Sister's House,Single,No,2,Bad,Yes,Yes,No,Family,No,Maybe,Yes,Yes,No,3
+9/20/2021 18:57:08,2nd year,Very bad,19,Male,21,Friend's House,Single,Yes,2,Normal,Yes,Yes,Yes,Family,No,No,No,No,No,7
+9/20/2021 18:59:08,4th year,Bad,49,Male,23,Tour,Single,Yes,2,Bad,Yes,Yes,No,Friends,Yes,Yes,Neutral,No,No,7
+9/20/2021 19:02:08,4th year,Very good,100,Male,23,Hall-Mess,Single,Yes,5,Good,No,No,Yes,Not applicable,No,No,Yes,No,No,9
+9/20/2021 19:04:08,2nd year,Normal,63,Male,21,Hall-Mess,Single,No,4,Normal,No,Yes,Yes,Family,Not applicable,No,Neutral,Yes,No,8
+9/20/2021 19:07:08,1st year,Bad,33,Male,20,Department,Single,Yes,2,Good,Yes,Yes,No,Not applicable,Not applicable,No,Yes,No,No,4
+9/20/2021 19:10:09,3rd year,Normal,63,Male,22,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Yes,No,No,6
+9/20/2021 19:12:08,1st year,Very bad,8,Male,20,Playground,Single,Yes,3,Normal,Yes,No,No,Not applicable,Not applicable,Maybe,No,Yes,No,4
+9/20/2021 19:15:09,3rd year,Bad,26,Male,22,Department,Single,No,1,Normal,Yes,Yes,Yes,Family,No,Yes,Yes,Yes,Yes,4
+9/20/2021 19:18:10,4th year,Very bad,14,Male,23,Hall-Mess,Single,No,2,Good,Yes,No,Yes,Friends,Yes,Maybe,Yes,Yes,Yes,6
+9/20/2021 19:21:09,2nd year,Bad,47,Male,21,Sister's House,Single,Yes,2,Good,Yes,No,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,6
+9/20/2021 19:24:09,4th year,Bad,42,Male,23,Department,Single,Yes,1,Bad,Yes,No,Yes,Not applicable,No,No,Neutral,No,Yes,7
+9/20/2021 19:26:09,3rd year,Bad,25,Male,22,Department,Single,No,2,Bad,Yes,No,No,Friends,Yes,Yes,No,Yes,Yes,4
+9/20/2021 19:28:10,2nd year,Bad,36,Male,21,Sister's House,Single,Yes,2,Bad,Yes,Yes,Yes,Not applicable,Yes,Yes,Neutral,No,Yes,7
+9/20/2021 19:31:09,1st year,Very bad,10,Male,20,Tour,Single,No,2,Normal,Yes,No,No,Friends,Not applicable,Maybe,Neutral,No,Yes,3
+9/20/2021 19:33:10,4th year,Very good,98,Male,23,Mosque,Single,Yes,4,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Yes,No,Yes,8
+9/20/2021 19:35:10,2nd year,Good,88,Male,21,Mosque,Single,Yes,3,Normal,No,Yes,Yes,Family,No,No,Neutral,No,Yes,10
+9/20/2021 19:38:10,1st year,Normal,54,Male,20,Tour,Single,No,3,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+9/20/2021 19:41:09,3rd year,Good,76,Male,22,Cousin's House,Single,Yes,5,Good,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,10
+9/20/2021 19:43:10,2nd year,Very good,94,Male,21,Friend's House,Single,Yes,4,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,No,8
+9/20/2021 19:46:11,1st year,Very good,95,Male,20,Friend's House,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,6
+9/20/2021 19:49:10,3rd year,Normal,52,Male,22,Aunt's House,Single,Yes,5,Good,Yes,Yes,Yes,Family,Yes,Maybe,Neutral,Yes,Yes,8
+9/20/2021 19:52:11,2nd year,Very good,93,Male,21,Sister's House,Single,Yes,5,Good,No,No,Yes,Friends,Not applicable,No,Neutral,No,No,9
+9/20/2021 19:55:11,1st year,Very good,91,Male,20,Town,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+9/20/2021 19:57:11,3rd year,Very good,94,Male,22,Tour,Single,Yes,3,Good,No,No,Yes,Family,Not applicable,No,Neutral,No,No,6
+9/20/2021 19:59:11,3rd year,Normal,62,Male,22,Town,Single,Yes,4,Good,Yes,Yes,No,Not applicable,Not applicable,No,Yes,No,No,6
+9/20/2021 20:01:11,1st year,Good,74,Male,20,Mosque,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,6
+9/20/2021 20:03:11,2nd year,Normal,54,Male,21,Mosque,Single,Yes,4,Good,Yes,Yes,Yes,Not applicable,Not applicable,No,Yes,Yes,No,6
+9/20/2021 20:05:11,4th year,Very good,100,Male,23,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,No,No,Yes,No,No,10
+9/20/2021 20:07:11,3rd year,Bad,23,Male,22,Playground,Single,No,2,Bad,Yes,No,No,Family,No,No,No,No,No,6
+9/20/2021 20:09:11,2nd year,Bad,49,Male,21,Tour,Single,No,3,Normal,Yes,No,Yes,Not applicable,No,Yes,No,No,Yes,6
+9/20/2021 20:12:11,3rd year,Good,85,Male,22,Playground,Single,Yes,5,Good,No,No,Yes,Not applicable,No,No,Neutral,No,No,8
+9/20/2021 20:15:11,3rd year,Normal,58,Male,22,Mosque,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Neutral,Yes,No,8
+9/20/2021 20:18:13,3rd year,Very bad,19,Male,22,Hall-Mess,Single,No,2,Normal,Yes,No,No,Family,No,No,Yes,Yes,Yes,7
+9/20/2021 20:20:11,2nd year,Very good,92,Male,21,Tour,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,No,8
+9/20/2021 20:22:13,2nd year,Good,81,Male,21,Home,Single,Yes,3,Normal,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,6
+9/20/2021 20:24:12,2nd year,Normal,50,Male,21,Mosque,Single,Yes,5,Normal,Yes,No,No,Family,Yes,No,Yes,No,Yes,6
+9/20/2021 20:27:12,4th year,Bad,26,Male,23,Town,Single,Yes,2,Good,Yes,No,No,Not applicable,Not applicable,Maybe,Yes,Yes,No,7
+9/20/2021 20:29:12,3rd year,Bad,31,Male,22,Town,Single,No,3,Bad,Yes,Yes,Yes,Friends,Yes,Yes,Neutral,Yes,No,5
+9/20/2021 20:31:12,1st year,Normal,66,Male,20,Restaurant,Single,No,5,Good,No,No,Yes,Family,Not applicable,No,Neutral,No,No,7
+9/20/2021 20:34:12,4th year,Normal,58,Male,23,Restaurant,Single,Yes,5,Good,Yes,Yes,No,Not applicable,Yes,Maybe,Neutral,Yes,Yes,8
+9/20/2021 20:36:13,1st year,Normal,67,Male,20,Mosque,Single,Yes,4,Normal,Yes,Yes,No,Family,Not applicable,Maybe,Yes,No,No,8
+9/20/2021 20:38:12,4th year,Very good,100,Male,23,Aunt's House,Single,Yes,3,Normal,No,No,Yes,Friends,No,No,Yes,No,Yes,8
+9/20/2021 20:40:13,3rd year,Bad,26,Male,22,Friend's House,Single,Yes,3,Good,Yes,Yes,No,Not applicable,Not applicable,No,Neutral,No,No,6
+9/20/2021 20:42:13,2nd year,Good,89,Male,21,Playground,Single,Yes,5,Normal,No,No,Yes,Family,Yes,No,Neutral,No,Yes,10
+9/20/2021 20:44:13,4th year,Very bad,5,Male,23,Restaurant,Single,Yes,3,Bad,Yes,No,Yes,Friends,Yes,No,Yes,Yes,Yes,7
+9/20/2021 20:46:13,2nd year,Normal,51,Male,21,Tour,Single,No,4,Normal,No,Yes,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+9/20/2021 20:49:14,3rd year,Very bad,1,Male,22,Restaurant,Single,No,1,Normal,Yes,No,No,Friends,Not applicable,Yes,Neutral,Yes,Yes,3
+9/20/2021 20:52:13,2nd year,Bad,35,Male,21,Home,Single,Yes,1,Normal,Yes,No,Yes,Not applicable,Not applicable,Yes,Neutral,Yes,No,3
+9/20/2021 20:55:14,1st year,Bad,42,Male,20,Sister's House,Single,Yes,1,Normal,Yes,Yes,Yes,Not applicable,Yes,Yes,Yes,Yes,No,5
+9/20/2021 20:57:15,2nd year,Bad,39,Male,21,Town,Single,Yes,2,Normal,Yes,No,No,Not applicable,Not applicable,Maybe,No,Yes,No,6
+9/20/2021 21:00:14,4th year,Very good,99,Male,23,Home,Single,Yes,4,Normal,No,No,Yes,Friends,Not applicable,No,Neutral,No,No,7
+9/20/2021 21:03:14,3rd year,Good,83,Male,22,Hall-Mess,Single,Yes,4,Good,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,8
+9/20/2021 21:05:14,2nd year,Normal,54,Male,21,Aunt's House,Single,No,4,Normal,Yes,No,Yes,Not applicable,Not applicable,Maybe,Yes,No,Yes,6
+9/20/2021 21:07:14,2nd year,Bad,41,Male,21,Tour,Single,No,2,Normal,Yes,No,Yes,Family,No,Maybe,Neutral,No,Yes,5
+9/20/2021 21:09:14,4th year,Normal,60,Male,23,Tour,Single,No,4,Good,Yes,Yes,Yes,Friends,Not applicable,No,Neutral,Yes,No,8
+9/20/2021 21:11:15,2nd year,Good,70,Male,21,Department,Single,Yes,3,Good,No,No,Yes,Friends,Not applicable,No,Neutral,No,No,6
+9/20/2021 21:14:15,3rd year,Good,79,Male,22,Home,Single,Yes,3,Normal,No,Yes,Yes,Friends,Not applicable,No,Yes,No,No,9
+9/20/2021 21:16:15,2nd year,Normal,69,Male,21,Tour,Single,No,4,Good,No,Yes,Yes,Family,No,Maybe,Neutral,Yes,No,8
+9/20/2021 21:18:15,1st year,Very good,97,Male,20,Aunt's House,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,No,7
+9/20/2021 21:21:15,4th year,Normal,56,Male,23,Town,Single,Yes,4,Good,Yes,No,Yes,Family,No,Maybe,Yes,No,Yes,7
+9/20/2021 21:23:16,2nd year,Normal,60,Male,21,Town,Single,No,3,Good,No,No,No,Not applicable,Yes,Maybe,Yes,Yes,No,8
+9/20/2021 21:25:16,4th year,Bad,40,Male,23,Playground,Single,No,3,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,Yes,5
+9/20/2021 21:27:16,4th year,Bad,45,Male,23,Hall-Mess,Single,Yes,3,Bad,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,7
+9/20/2021 21:29:16,4th year,Very good,92,Male,23,Cousin's House,Single,Yes,5,Good,No,Yes,Yes,Friends,Not applicable,No,Yes,No,Yes,10
+9/20/2021 21:31:16,4th year,Normal,53,Male,23,Tour,Single,No,5,Normal,No,No,Yes,Not applicable,Not applicable,Maybe,Yes,Yes,No,8
+9/20/2021 21:33:16,2nd year,Very bad,4,Male,21,Aunt's House,Single,No,3,Good,Yes,No,No,Friends,Not applicable,Maybe,No,No,No,5
+9/20/2021 21:35:17,2nd year,Normal,50,Male,21,Hall-Mess,Single,Yes,4,Normal,No,No,Yes,Family,Yes,No,Neutral,No,No,7
+9/20/2021 21:38:17,1st year,Very good,91,Male,20,Friend's House,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,9
+9/20/2021 21:41:17,3rd year,Bad,48,Male,22,Cousin's House,Single,Yes,3,Bad,Yes,Yes,Yes,Not applicable,No,No,No,No,No,3
+9/20/2021 21:44:17,1st year,Very good,96,Male,20,Sister's House,Single,Yes,5,Good,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,10
+9/20/2021 21:47:17,1st year,Very good,92,Male,20,Sister's House,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Yes,No,Yes,7
+9/20/2021 21:50:18,4th year,Good,81,Male,23,Aunt's House,Single,Yes,5,Normal,No,No,Yes,Not applicable,No,No,Yes,No,No,9
+9/20/2021 21:52:18,3rd year,Normal,69,Male,22,Aunt's House,Single,Yes,3,Normal,Yes,No,Yes,Friends,No,Maybe,Yes,No,Yes,8
+9/20/2021 21:55:18,1st year,Very good,94,Male,20,Department,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+9/20/2021 21:58:18,4th year,Very good,93,Male,23,Aunt's House,Single,Yes,5,Normal,No,No,Yes,Friends,Yes,No,Yes,No,Yes,9
+9/20/2021 22:01:18,2nd year,Very bad,10,Male,21,Friend's House,Single,No,2,Normal,Yes,No,Yes,Friends,Not applicable,No,Yes,No,No,5
+9/20/2021 22:03:18,1st year,Good,73,Male,20,Aunt's House,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Neutral,No,Yes,10
+9/20/2021 22:05:18,1st year,Normal,57,Male,20,Hall-Mess,Single,Yes,5,Normal,No,Yes,No,Friends,Yes,Maybe,Neutral,No,No,6
+9/20/2021 22:07:18,3rd year,Very bad,6,Male,22,Restaurant,Single,Yes,2,Normal,Yes,No,Yes,Not applicable,Not applicable,No,No,Yes,No,3
+9/20/2021 22:10:19,2nd year,Very good,100,Male,21,Sister's House,Single,Yes,3,Good,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,7
+9/20/2021 22:12:19,3rd year,Normal,57,Male,22,Department,Single,No,4,Normal,No,Yes,Yes,Family,No,Maybe,Yes,No,Yes,8
+9/20/2021 22:15:19,3rd year,Good,88,Male,22,Department,Single,Yes,3,Normal,No,No,Yes,Family,Not applicable,No,Neutral,No,Yes,8
+9/20/2021 22:18:19,4th year,Good,78,Male,23,Restaurant,Single,Yes,4,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+9/20/2021 22:20:19,3rd year,Bad,31,Male,22,Playground,Single,No,2,Bad,Yes,No,No,Friends,Yes,Yes,Neutral,Yes,No,4
+9/20/2021 22:23:21,3rd year,Very good,97,Male,22,Home,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,No,No,Neutral,No,No,10
+9/20/2021 22:26:19,4th year,Good,82,Male,23,Home,Single,Yes,5,Good,No,Yes,Yes,Not applicable,Not applicable,No,Yes,No,Yes,7
+9/20/2021 22:28:20,3rd year,Good,77,Male,22,Hall-Mess,Single,Yes,3,Normal,No,No,Yes,Friends,Yes,No,Neutral,No,No,7
+9/20/2021 22:30:20,3rd year,Normal,54,Male,22,Home,Single,No,4,Normal,Yes,No,No,Not applicable,Yes,No,Neutral,No,No,6
+9/20/2021 22:34:28,3rd year,Very good,91,Male,22,Town,Single,Yes,3,Good,No,No,Yes,Family,No,No,Neutral,No,No,7
+9/20/2021 22:36:28,1st year,Bad,32,Male,20,Home,Single,No,3,Bad,Yes,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,6
+9/20/2021 22:38:29,1st year,Very good,95,Male,20,Tour,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,Yes,No,Yes,No,Yes,7
+9/20/2021 22:41:30,3rd year,Bad,48,Male,22,Restaurant,Single,No,1,Good,Yes,Yes,No,Friends,Not applicable,Maybe,No,Yes,Yes,3
+9/20/2021 22:43:29,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,6
+9/20/2021 22:46:29,3rd year,Very good,98,Male,22,Friend's House,Single,Yes,5,Normal,No,No,Yes,Not applicable,Yes,No,Yes,No,No,10
+9/20/2021 22:48:30,4th year,Good,70,Male,23,Tour,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Yes,No,Yes,6
+9/20/2021 22:50:30,2nd year,Bad,27,Male,21,Playground,Single,Yes,3,Bad,Yes,Yes,No,Family,Yes,Maybe,Neutral,No,Yes,7
+9/20/2021 22:52:29,3rd year,Bad,39,Male,22,Mosque,Single,No,1,Normal,Yes,No,No,Friends,Not applicable,No,No,No,No,4
+9/20/2021 22:55:30,2nd year,Normal,66,Male,21,Cousin's House,Single,Yes,5,Normal,Yes,Yes,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+9/20/2021 22:57:30,3rd year,Very bad,11,Male,22,Friend's House,Single,Yes,3,Good,Yes,Yes,No,Friends,No,Maybe,No,No,No,6
+9/20/2021 22:59:30,2nd year,Good,89,Male,21,Mosque,Single,Yes,5,Normal,No,No,Yes,Not applicable,No,No,Yes,No,No,9
+9/20/2021 23:01:30,1st year,Very bad,9,Male,20,Hall-Mess,Single,Yes,2,Normal,Yes,Yes,No,Not applicable,Yes,Yes,Neutral,No,Yes,3
+9/20/2021 23:03:30,1st year,Bad,48,Male,20,Playground,Single,Yes,1,Bad,Yes,Yes,No,Not applicable,No,Maybe,No,Yes,No,3
+9/20/2021 23:05:30,3rd year,Bad,36,Male,22,Mosque,Single,Yes,3,Bad,Yes,Yes,No,Not applicable,Not applicable,Maybe,Neutral,No,No,5
+9/20/2021 23:08:31,2nd year,Normal,61,Male,21,Sister's House,Single,Yes,3,Normal,Yes,No,No,Not applicable,Not applicable,Maybe,Yes,Yes,No,6
+9/20/2021 23:10:31,3rd year,Good,80,Male,22,Town,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,No,8
+9/20/2021 23:12:30,3rd year,Bad,41,Male,22,Restaurant,Single,No,1,Good,Yes,Yes,Yes,Family,Yes,Yes,Yes,Yes,No,5
+9/20/2021 23:14:30,3rd year,Very good,99,Male,22,Cousin's House,Single,Yes,4,Normal,No,Yes,Yes,Not applicable,Yes,No,Yes,No,Yes,10
+9/20/2021 23:16:31,1st year,Normal,69,Male,20,Town,Single,No,3,Normal,Yes,Yes,Yes,Not applicable,Yes,Maybe,Neutral,No,Yes,7
+9/20/2021 23:18:31,2nd year,Normal,66,Male,21,Hall-Mess,Single,Yes,3,Normal,Yes,Yes,No,Family,Yes,No,Neutral,No,No,7
+9/20/2021 23:20:31,3rd year,Normal,61,Male,22,Aunt's House,Single,No,3,Normal,Yes,No,No,Friends,Yes,No,Neutral,No,Yes,8
+9/20/2021 23:23:31,1st year,Very bad,4,Male,20,Sister's House,Single,No,2,Normal,Yes,No,No,Family,No,Maybe,Neutral,Yes,No,5
+9/20/2021 23:25:31,4th year,Very good,92,Male,23,Restaurant,Single,Yes,5,Normal,No,Yes,Yes,Family,Not applicable,No,Neutral,No,Yes,6
+9/20/2021 23:27:32,3rd year,Good,81,Male,22,Department,Single,Yes,5,Good,No,Yes,Yes,Friends,Not applicable,No,Yes,No,Yes,8
+9/20/2021 23:30:32,2nd year,Very good,97,Male,21,Restaurant,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,No,8
+9/20/2021 23:33:32,3rd year,Good,79,Male,22,Tour,Single,Yes,4,Good,No,Yes,Yes,Friends,Not applicable,No,Yes,No,No,8
+9/20/2021 23:36:32,1st year,Very good,99,Male,20,Friend's House,Single,Yes,4,Good,No,No,Yes,Family,No,No,Yes,No,Yes,9
+9/20/2021 23:39:32,4th year,Bad,31,Male,23,Hall-Mess,Single,No,1,Good,Yes,Yes,Yes,Friends,Not applicable,No,Yes,Yes,Yes,6
+9/20/2021 23:42:32,3rd year,Very bad,6,Male,22,Sister's House,Single,Yes,3,Good,Yes,No,No,Family,No,No,Yes,No,Yes,3
+9/20/2021 23:44:32,1st year,Normal,52,Male,20,Town,Single,No,3,Normal,Yes,Yes,Yes,Friends,No,No,Yes,No,Yes,6
+9/20/2021 23:46:33,4th year,Very bad,1,Male,23,Mosque,Single,No,1,Bad,Yes,No,Yes,Not applicable,No,Maybe,No,Yes,No,6
+9/20/2021 23:49:33,3rd year,Good,79,Male,22,Playground,Single,Yes,5,Good,No,Yes,Yes,Friends,No,No,Neutral,No,No,7
+9/20/2021 23:51:32,1st year,Good,73,Male,20,Hall-Mess,Single,Yes,5,Normal,No,No,Yes,Friends,Yes,No,Yes,No,Yes,9
+9/20/2021 23:53:32,3rd year,Very bad,8,Male,22,Mosque,Single,No,1,Good,Yes,No,No,Family,Yes,Maybe,Neutral,No,No,5
+9/20/2021 23:55:33,2nd year,Very bad,15,Male,21,Playground,Single,Yes,2,Normal,Yes,No,Yes,Not applicable,No,Yes,Neutral,No,No,7
+9/20/2021 23:58:33,3rd year,Bad,46,Male,22,Home,Single,Yes,2,Normal,Yes,No,Yes,Friends,Yes,Yes,No,No,Yes,7
+9/21/2021 0:00:34,1st year,Normal,50,Male,20,Friend's House,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Neutral,Yes,Yes,8
+9/21/2021 0:02:34,2nd year,Normal,54,Male,21,Hall-Mess,Single,No,5,Good,No,No,Yes,Not applicable,Yes,No,Yes,Yes,No,8
+9/21/2021 0:04:34,4th year,Normal,68,Male,23,Sister's House,Single,Yes,5,Normal,No,Yes,No,Friends,Yes,Maybe,Neutral,No,No,6
+9/21/2021 0:07:34,3rd year,Bad,44,Male,22,Mosque,Single,Yes,1,Bad,Yes,No,Yes,Family,Yes,Yes,Neutral,Yes,Yes,3
+9/21/2021 0:10:34,1st year,Very good,91,Male,20,Sister's House,Single,Yes,4,Normal,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,10
+9/21/2021 0:12:34,2nd year,Very good,90,Male,21,Aunt's House,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Neutral,No,No,8
+9/21/2021 0:14:34,1st year,Bad,30,Male,20,Hall-Mess,Single,Yes,3,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,Yes,No,7
+9/21/2021 0:16:34,1st year,Very good,99,Male,20,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,10
+9/21/2021 0:19:35,2nd year,Very bad,16,Male,21,Hall-Mess,Single,No,3,Bad,Yes,Yes,No,Family,Not applicable,Yes,Neutral,No,No,3
+9/21/2021 0:21:34,4th year,Good,81,Male,23,Tour,Single,Yes,4,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Yes,No,Yes,9
+9/21/2021 0:24:34,4th year,Good,78,Male,23,Town,Single,Yes,4,Good,No,No,Yes,Friends,No,No,Yes,No,No,10
+9/21/2021 0:26:36,4th year,Good,83,Male,23,Cousin's House,Single,Yes,4,Good,No,Yes,Yes,Family,No,No,Neutral,No,Yes,9
+9/21/2021 0:28:34,3rd year,Bad,42,Male,22,Restaurant,Single,Yes,2,Good,Yes,Yes,No,Not applicable,No,Maybe,No,Yes,Yes,7
+9/21/2021 0:30:35,1st year,Normal,50,Male,20,Hall-Mess,Single,No,5,Good,Yes,Yes,No,Friends,No,Maybe,Neutral,No,No,6
+9/21/2021 0:33:35,2nd year,Normal,64,Male,21,Friend's House,Single,Yes,3,Good,Yes,No,No,Family,Not applicable,Maybe,Yes,No,Yes,7
+9/21/2021 0:35:35,1st year,Very bad,18,Male,20,Aunt's House,Single,Yes,1,Good,Yes,No,Yes,Friends,Yes,Maybe,Neutral,Yes,No,4
+9/21/2021 0:38:36,4th year,Bad,44,Male,23,Friend's House,Single,No,2,Bad,Yes,Yes,No,Not applicable,No,Maybe,Neutral,No,Yes,7
+9/21/2021 0:40:36,2nd year,Very good,97,Male,21,Mosque,Single,Yes,4,Normal,No,No,Yes,Not applicable,No,No,Yes,No,Yes,8
+9/21/2021 0:42:36,4th year,Very good,95,Male,23,Town,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,6
+9/21/2021 0:45:36,1st year,Very good,91,Male,20,Cousin's House,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Neutral,No,Yes,8
+9/21/2021 0:47:36,4th year,Very good,94,Male,23,Playground,Single,Yes,5,Good,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,8
+9/21/2021 0:50:36,3rd year,Normal,62,Male,22,Sister's House,Single,No,3,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,No,8
+9/21/2021 0:52:36,3rd year,Good,83,Male,22,Tour,Single,Yes,5,Normal,No,No,Yes,Not applicable,No,No,Yes,No,Yes,7
+9/21/2021 0:54:36,3rd year,Good,80,Male,22,Tour,Single,Yes,5,Good,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,8
+9/21/2021 0:57:36,2nd year,Very bad,16,Male,21,Town,Single,Yes,2,Normal,Yes,Yes,Yes,Not applicable,Yes,Maybe,No,No,No,6
+9/21/2021 1:00:36,2nd year,Bad,38,Male,21,Playground,Single,No,1,Bad,Yes,Yes,No,Family,Yes,Yes,Yes,Yes,Yes,5
+9/21/2021 1:02:37,3rd year,Very good,97,Male,22,Restaurant,Single,Yes,3,Normal,No,No,Yes,Not applicable,Not applicable,No,Yes,No,No,8
+9/21/2021 1:04:37,2nd year,Bad,47,Male,21,Town,Single,No,2,Bad,Yes,No,No,Not applicable,No,Maybe,No,No,No,5
+9/21/2021 1:07:37,2nd year,Good,89,Male,21,Friend's House,Single,Yes,4,Normal,No,Yes,Yes,Family,No,No,Yes,No,Yes,9
+9/21/2021 1:10:37,4th year,Very bad,11,Male,23,Mosque,Single,No,1,Bad,Yes,No,No,Not applicable,Yes,Maybe,Yes,Yes,No,5
+9/21/2021 1:13:37,4th year,Bad,49,Male,23,Tour,Single,Yes,3,Bad,Yes,No,Yes,Friends,Not applicable,Yes,Neutral,No,No,5
+9/21/2021 1:15:37,3rd year,Good,73,Male,22,Playground,Single,Yes,4,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+9/21/2021 1:18:37,2nd year,Very bad,9,Male,21,Sister's House,Single,Yes,2,Good,Yes,Yes,No,Friends,No,Yes,No,No,Yes,7
+9/21/2021 1:20:38,1st year,Very bad,16,Male,20,Home,Single,No,1,Normal,Yes,Yes,Yes,Family,No,No,Yes,Yes,No,3
+9/21/2021 1:22:37,2nd year,Very bad,12,Male,21,Friend's House,Single,Yes,1,Normal,Yes,No,No,Friends,Yes,Yes,No,Yes,No,5
+9/21/2021 1:24:37,4th year,Good,82,Male,23,Friend's House,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Yes,No,Yes,7
+9/21/2021 1:27:38,2nd year,Bad,39,Male,21,Home,Single,No,3,Good,Yes,Yes,No,Not applicable,Yes,No,No,No,No,5
+9/21/2021 1:30:38,4th year,Very bad,18,Male,23,Department,Single,Yes,1,Good,Yes,No,No,Friends,Not applicable,Maybe,Yes,No,No,4
+9/21/2021 1:32:38,4th year,Bad,31,Male,23,Sister's House,Single,No,1,Good,Yes,Yes,No,Family,Yes,Maybe,Neutral,Yes,No,4
+9/21/2021 1:35:39,3rd year,Bad,43,Male,22,Cousin's House,Single,Yes,3,Good,Yes,Yes,Yes,Friends,Yes,Maybe,Yes,Yes,Yes,5
+9/21/2021 1:37:38,4th year,Good,89,Male,23,Restaurant,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6
+9/21/2021 1:40:38,1st year,Bad,34,Male,20,Tour,Single,No,3,Normal,Yes,Yes,No,Friends,No,Maybe,No,No,Yes,4
+9/21/2021 1:43:39,1st year,Very bad,19,Male,20,Aunt's House,Single,No,3,Good,Yes,Yes,No,Family,No,Maybe,Neutral,No,No,3
+9/21/2021 1:45:39,1st year,Very bad,3,Male,20,Restaurant,Single,No,3,Normal,Yes,Yes,Yes,Friends,No,Maybe,Yes,Yes,No,3
+9/21/2021 1:47:38,3rd year,Normal,65,Male,22,Friend's House,Single,Yes,3,Good,No,No,Yes,Not applicable,Not applicable,Maybe,Yes,Yes,No,6
+9/21/2021 1:50:39,2nd year,Very bad,17,Male,21,Town,Single,No,2,Good,Yes,Yes,No,Family,Not applicable,Maybe,Neutral,No,Yes,4
+9/21/2021 1:52:39,1st year,Good,83,Male,20,Friend's House,Single,Yes,4,Good,No,Yes,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+9/21/2021 1:55:40,3rd year,Normal,63,Male,22,Mosque,Single,Yes,3,Normal,Yes,Yes,No,Family,Yes,No,Yes,Yes,Yes,8
+9/21/2021 1:58:39,4th year,Bad,46,Male,23,Restaurant,Single,Yes,2,Good,Yes,Yes,Yes,Family,Yes,Yes,Yes,Yes,Yes,5
+9/21/2021 2:01:39,2nd year,Very good,96,Male,21,Playground,Single,Yes,4,Normal,No,Yes,Yes,Family,No,No,Neutral,No,No,7
+9/21/2021 2:04:39,1st year,Very good,99,Male,20,Department,Single,Yes,4,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,Yes,6
+9/21/2021 2:07:40,2nd year,Bad,28,Male,21,Sister's House,Single,Yes,2,Good,Yes,No,Yes,Not applicable,No,Maybe,Neutral,No,Yes,5
+9/21/2021 2:10:40,2nd year,Very bad,3,Male,21,Hall-Mess,Single,No,1,Good,Yes,Yes,No,Family,Not applicable,No,No,Yes,No,5
+9/21/2021 2:12:40,1st year,Very bad,11,Male,20,Town,Single,No,2,Bad,Yes,No,Yes,Family,No,No,No,No,No,7
+9/21/2021 2:15:40,2nd year,Bad,20,Male,21,Cousin's House,Single,Yes,2,Bad,Yes,No,No,Family,Not applicable,Maybe,Yes,No,Yes,3
+9/21/2021 2:17:40,4th year,Normal,62,Male,23,Hall-Mess,Single,No,3,Good,No,Yes,No,Not applicable,Not applicable,Maybe,Neutral,No,No,6
+9/21/2021 2:19:40,1st year,Very bad,15,Male,20,Tour,Single,Yes,3,Bad,Yes,Yes,Yes,Family,Yes,Yes,No,No,No,6
+9/21/2021 2:21:40,3rd year,Very good,96,Male,22,Restaurant,Single,Yes,3,Good,No,No,Yes,Friends,No,No,Neutral,No,Yes,9
+9/21/2021 2:23:40,4th year,Very good,97,Male,23,Mosque,Single,Yes,4,Good,No,No,Yes,Friends,Not applicable,No,Neutral,No,Yes,8
+9/21/2021 2:25:41,1st year,Good,72,Male,20,Sister's House,Single,Yes,3,Good,No,Yes,Yes,Family,Not applicable,No,Neutral,No,Yes,7
+9/21/2021 2:28:41,4th year,Good,89,Male,23,Department,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Yes,No,Yes,No,Yes,9
+9/21/2021 2:31:41,2nd year,Bad,48,Male,21,Playground,Single,Yes,3,Normal,Yes,No,Yes,Not applicable,Yes,No,Neutral,No,Yes,7
+9/21/2021 2:33:41,1st year,Very bad,1,Male,20,Playground,Single,No,1,Good,Yes,Yes,Yes,Family,Not applicable,No,Yes,Yes,Yes,4
+9/21/2021 2:36:41,4th year,Very good,91,Male,23,Home,Single,Yes,3,Good,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,6
+9/21/2021 2:38:41,4th year,Bad,26,Male,23,Mosque,Single,Yes,1,Good,Yes,No,No,Not applicable,Not applicable,No,Yes,Yes,Yes,4
+9/21/2021 2:40:41,4th year,Very bad,8,Male,23,Sister's House,Single,Yes,1,Bad,Yes,Yes,No,Family,Not applicable,Maybe,No,Yes,Yes,3
+9/21/2021 2:43:41,1st year,Bad,23,Male,20,Cousin's House,Single,Yes,3,Bad,Yes,No,No,Not applicable,No,Yes,Yes,No,No,5
+9/21/2021 2:45:41,1st year,Normal,65,Male,20,Home,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,8
+9/21/2021 2:48:42,2nd year,Bad,32,Male,21,Home,Single,Yes,1,Bad,Yes,Yes,No,Friends,Not applicable,No,No,Yes,Yes,5
+9/21/2021 2:50:42,3rd year,Normal,68,Male,22,Department,Single,No,3,Normal,Yes,No,No,Not applicable,Not applicable,Maybe,Yes,No,Yes,6
+9/21/2021 2:53:42,4th year,Normal,55,Male,23,Department,Single,Yes,3,Normal,Yes,Yes,No,Friends,Yes,No,Yes,No,No,6
+9/21/2021 2:55:42,3rd year,Good,80,Male,22,Playground,Single,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,Yes,9
+9/21/2021 2:57:42,3rd year,Bad,43,Male,22,Department,Single,No,1,Bad,Yes,No,No,Family,Yes,Yes,Neutral,Yes,No,7
+9/21/2021 3:00:42,4th year,Very good,97,Male,23,Mosque,Single,Yes,5,Good,No,Yes,Yes,Family,Not applicable,No,Neutral,No,Yes,9
+9/21/2021 3:02:42,4th year,Very good,93,Male,23,Home,Single,Yes,3,Good,No,No,Yes,Not applicable,No,No,Neutral,No,Yes,6
+9/21/2021 3:04:42,2nd year,Very bad,8,Male,21,Aunt's House,Single,No,2,Normal,Yes,Yes,Yes,Not applicable,Yes,Maybe,No,Yes,Yes,4
+9/21/2021 3:07:42,2nd year,Normal,64,Male,21,Sister's House,Single,Yes,4,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,7
+9/21/2021 3:09:43,3rd year,Very bad,16,Male,22,Sister's House,Single,No,2,Good,Yes,Yes,Yes,Friends,No,Yes,Neutral,No,Yes,3
+9/21/2021 3:12:44,3rd year,Good,74,Male,22,Town,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,No,9
+9/21/2021 3:15:43,1st year,Good,75,Male,20,Mosque,Single,Yes,4,Normal,No,No,Yes,Family,Not applicable,No,Neutral,No,Yes,9
+9/21/2021 3:17:43,1st year,Very bad,8,Male,20,Hall-Mess,Single,Yes,2,Good,Yes,Yes,Yes,Family,Yes,Maybe,No,Yes,Yes,4
+9/21/2021 3:20:44,4th year,Very bad,3,Male,23,Cousin's House,Single,No,2,Good,Yes,Yes,No,Friends,No,Maybe,Neutral,No,No,5
+9/21/2021 3:23:43,3rd year,Very bad,16,Male,22,Playground,Single,No,3,Good,Yes,No,No,Family,Not applicable,No,No,Yes,Yes,5
+9/21/2021 3:25:43,1st year,Very good,92,Male,20,Friend's House,Single,Yes,4,Normal,No,No,Yes,Family,Yes,No,Neutral,No,Yes,9
+9/21/2021 3:27:44,4th year,Very good,98,Male,23,Mosque,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,No,10
+9/21/2021 3:30:43,2nd year,Very good,95,Male,21,Home,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,6
+9/21/2021 3:32:44,3rd year,Very bad,2,Male,22,Aunt's House,Single,No,2,Good,Yes,Yes,Yes,Not applicable,No,Maybe,Yes,No,Yes,6
+9/21/2021 3:34:45,2nd year,Bad,34,Male,21,Department,Single,Yes,3,Good,Yes,Yes,No,Friends,Yes,Maybe,Neutral,No,No,4
+9/21/2021 3:37:45,3rd year,Very bad,13,Male,22,Hall-Mess,Single,Yes,2,Bad,Yes,No,Yes,Family,No,Maybe,Neutral,Yes,No,6
+9/21/2021 3:40:44,1st year,Very good,99,Male,20,Playground,Single,Yes,3,Normal,No,No,Yes,Friends,No,No,Neutral,No,No,10
+9/21/2021 3:42:45,2nd year,Bad,25,Male,21,Cousin's House,Single,Yes,3,Bad,Yes,Yes,Yes,Not applicable,Yes,Yes,No,Yes,Yes,4
+9/21/2021 3:45:44,3rd year,Very good,100,Male,22,Cousin's House,Single,Yes,3,Normal,No,No,Yes,Friends,Yes,No,Neutral,No,No,10
+9/21/2021 3:48:44,3rd year,Very good,91,Male,22,Playground,Single,Yes,5,Good,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,8
+9/21/2021 3:51:45,4th year,Normal,59,Male,23,Town,Single,No,4,Good,No,No,No,Not applicable,No,No,Neutral,No,No,6
+9/21/2021 3:53:44,2nd year,Bad,34,Male,21,Tour,Single,No,2,Normal,Yes,Yes,Yes,Not applicable,Not applicable,Yes,Yes,No,No,5
+9/21/2021 3:56:45,3rd year,Bad,41,Male,22,Town,Single,Yes,1,Bad,Yes,Yes,Yes,Family,Not applicable,No,No,No,Yes,6
+9/21/2021 3:58:45,2nd year,Good,73,Male,21,Restaurant,Single,Yes,5,Normal,No,No,Yes,Friends,No,No,Neutral,No,Yes,10
+9/21/2021 4:01:45,1st year,Very good,97,Male,20,Playground,Single,Yes,4,Good,No,No,Yes,Not applicable,No,No,Neutral,No,Yes,7
+9/21/2021 4:04:45,4th year,Normal,56,Male,23,Home,Single,No,4,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,No,Yes,6
+9/21/2021 4:06:46,3rd year,Bad,41,Male,22,Aunt's House,Single,No,2,Good,Yes,Yes,Yes,Not applicable,No,Yes,Neutral,Yes,Yes,3
+9/21/2021 4:09:45,2nd year,Very good,92,Male,21,Mosque,Single,Yes,5,Good,No,No,Yes,Friends,Not applicable,No,Yes,No,No,6
+9/21/2021 4:11:45,1st year,Very bad,6,Male,20,Friend's House,Single,Yes,1,Bad,Yes,Yes,No,Friends,Not applicable,Yes,Yes,No,Yes,5
+9/21/2021 4:13:46,4th year,Normal,63,Male,23,Friend's House,Single,No,5,Normal,Yes,No,No,Friends,Not applicable,No,Neutral,No,No,8
+9/21/2021 4:15:46,4th year,Normal,50,Male,23,Tour,Single,Yes,5,Normal,Yes,No,Yes,Friends,Not applicable,Maybe,Neutral,No,No,6
+9/21/2021 4:18:46,3rd year,Good,89,Male,22,Aunt's House,Single,Yes,5,Good,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,No,8
+9/21/2021 4:21:46,3rd year,Very bad,18,Male,22,Restaurant,Single,Yes,1,Good,Yes,No,Yes,Not applicable,Not applicable,No,Neutral,Yes,No,6
+9/21/2021 4:24:46,1st year,Normal,53,Male,20,Friend's House,Single,No,3,Normal,Yes,No,Yes,Friends,No,No,Neutral,No,Yes,7
+9/21/2021 4:26:46,2nd year,Very bad,18,Male,21,Tour,Single,No,2,Bad,Yes,Yes,Yes,Friends,No,Maybe,Neutral,No,No,3
+9/21/2021 4:29:46,4th year,Very good,100,Male,23,Tour,Single,Yes,4,Normal,No,Yes,Yes,Friends,Not applicable,No,Yes,No,No,8
+9/21/2021 4:32:46,2nd year,Bad,38,Male,21,Mosque,Single,Yes,2,Bad,Yes,No,No,Friends,Yes,Maybe,Yes,Yes,No,6
+9/21/2021 4:34:47,3rd year,Very good,98,Male,22,Sister's House,Single,Yes,5,Normal,No,No,Yes,Not applicable,No,No,Yes,No,Yes,7
+9/21/2021 4:37:47,1st year,Very good,100,Male,20,Cousin's House,Single,Yes,5,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+9/21/2021 4:39:47,1st year,Very bad,18,Male,20,Friend's House,Single,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,No,No,No,3
+9/21/2021 4:41:47,1st year,Normal,59,Male,20,Cousin's House,Single,No,4,Good,Yes,Yes,No,Friends,No,No,Yes,No,No,7
+9/21/2021 4:43:47,2nd year,Normal,59,Male,21,Town,Single,Yes,3,Good,Yes,Yes,Yes,Friends,No,No,Yes,No,No,8
+9/21/2021 4:46:47,1st year,Normal,59,Male,20,Home,Single,No,4,Good,No,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,Yes,6
+9/21/2021 4:48:47,3rd year,Very bad,4,Male,22,Town,Single,Yes,3,Bad,Yes,Yes,Yes,Family,Not applicable,Yes,Neutral,No,No,7
+9/21/2021 4:50:47,4th year,Very good,94,Male,23,Hall-Mess,Single,Yes,4,Good,No,Yes,Yes,Friends,Not applicable,No,Yes,No,No,7
+9/21/2021 4:53:47,2nd year,Very bad,11,Male,21,Sister's House,Single,Yes,3,Good,Yes,Yes,Yes,Friends,No,No,No,Yes,Yes,6
+9/21/2021 4:56:47,1st year,Bad,40,Male,20,Town,Single,No,2,Bad,Yes,No,No,Friends,No,No,Neutral,Yes,Yes,7
+9/21/2021 4:59:47,1st year,Very bad,13,Male,20,Hall-Mess,Single,No,3,Normal,Yes,No,No,Family,Not applicable,Maybe,No,No,Yes,7
+9/21/2021 5:02:48,1st year,Very good,96,Male,20,Department,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Neutral,No,No,9
+9/21/2021 5:04:48,3rd year,Very bad,14,Male,22,Friend's House,Single,No,1,Good,Yes,Yes,No,Not applicable,Not applicable,Maybe,No,No,No,3
+9/21/2021 5:06:48,2nd year,Very bad,4,Male,21,Mosque,Single,Yes,2,Bad,Yes,No,No,Not applicable,Yes,No,Yes,Yes,No,5
+9/21/2021 5:09:48,2nd year,Good,84,Male,21,Playground,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,7
+9/21/2021 5:12:49,4th year,Very good,97,Male,23,Cousin's House,Single,Yes,4,Normal,No,Yes,Yes,Not applicable,Yes,No,Yes,No,Yes,8
+9/21/2021 5:15:48,4th year,Normal,68,Male,23,Playground,Single,No,5,Good,Yes,Yes,Yes,Family,No,No,Neutral,No,Yes,6
+9/21/2021 5:18:48,2nd year,Very bad,14,Male,21,Department,Single,Yes,3,Good,Yes,No,Yes,Not applicable,Yes,Yes,Yes,No,No,4
+9/21/2021 5:20:49,3rd year,Good,72,Male,22,Hall-Mess,Single,Yes,5,Good,No,No,Yes,Friends,Yes,No,Yes,No,No,6
+9/21/2021 5:23:49,3rd year,Bad,45,Male,22,Playground,Single,No,3,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,3
+9/21/2021 5:25:49,1st year,Very good,95,Male,20,Playground,Single,Yes,4,Good,No,No,Yes,Family,Not applicable,No,Yes,No,Yes,10
+9/21/2021 5:27:50,1st year,Good,86,Male,20,Department,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,No,No,Neutral,No,No,10
+9/21/2021 5:30:49,4th year,Bad,43,Male,23,Aunt's House,Single,No,1,Bad,Yes,No,No,Not applicable,Yes,Maybe,No,Yes,Yes,6
+9/21/2021 5:33:49,4th year,Very bad,14,Male,23,Mosque,Single,Yes,1,Bad,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,3
+9/21/2021 5:35:49,1st year,Very good,100,Male,20,Restaurant,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,10
+9/21/2021 5:38:49,1st year,Very bad,14,Male,20,Restaurant,Single,No,2,Normal,Yes,No,No,Friends,No,Maybe,No,No,No,5
+9/21/2021 5:40:50,2nd year,Very bad,4,Male,21,Playground,Single,Yes,3,Good,Yes,Yes,Yes,Family,Not applicable,Yes,Neutral,No,No,6
+9/21/2021 5:43:50,1st year,Very good,90,Male,20,Restaurant,Single,Yes,3,Normal,No,No,Yes,Family,No,No,Yes,No,No,7
+9/21/2021 5:46:50,4th year,Bad,44,Male,23,Playground,Single,Yes,2,Normal,Yes,No,Yes,Not applicable,Not applicable,No,No,No,No,4
+9/21/2021 5:48:50,1st year,Good,89,Male,20,Restaurant,Single,Yes,4,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,No,8
+9/21/2021 5:50:51,3rd year,Very bad,7,Male,22,Cousin's House,Single,Yes,2,Bad,Yes,No,Yes,Not applicable,Yes,Maybe,No,Yes,No,4
+9/21/2021 5:52:51,4th year,Good,76,Male,23,Friend's House,Single,Yes,5,Normal,No,Yes,Yes,Family,Not applicable,No,Yes,No,Yes,10
+9/21/2021 5:55:52,1st year,Bad,42,Male,20,Playground,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,No,No,Yes,6
+9/21/2021 5:57:52,4th year,Very good,97,Male,23,Mosque,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+9/21/2021 5:59:50,2nd year,Normal,58,Male,21,Home,Single,No,4,Good,No,No,No,Not applicable,Not applicable,No,Neutral,Yes,Yes,7
+9/21/2021 6:02:51,4th year,Bad,22,Male,23,Friend's House,Single,No,2,Bad,Yes,No,No,Not applicable,Not applicable,Maybe,Neutral,No,No,6
+9/21/2021 6:04:51,4th year,Good,87,Male,23,Cousin's House,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Neutral,No,Yes,9
+9/21/2021 6:07:51,4th year,Very bad,16,Male,23,Aunt's House,Single,Yes,1,Bad,Yes,Yes,No,Not applicable,No,No,Yes,No,Yes,7
+9/21/2021 6:10:52,4th year,Good,70,Male,23,Home,Single,Yes,5,Normal,No,No,Yes,Friends,No,No,Yes,No,Yes,8
+9/21/2021 6:13:51,4th year,Good,86,Male,23,Department,Single,Yes,5,Normal,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,No,6
+9/21/2021 6:15:51,3rd year,Bad,47,Male,22,Friend's House,Single,Yes,2,Normal,Yes,Yes,Yes,Not applicable,No,Yes,Neutral,No,No,6
+9/21/2021 6:18:52,4th year,Very bad,3,Male,23,Town,Single,No,3,Bad,Yes,No,Yes,Not applicable,Yes,Yes,Yes,No,No,4
+9/21/2021 6:20:53,1st year,Good,79,Male,20,Restaurant,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+9/21/2021 6:22:52,3rd year,Good,76,Male,22,Tour,Single,Yes,5,Normal,No,No,Yes,Family,Not applicable,No,Neutral,No,No,10
+9/21/2021 6:25:52,4th year,Normal,70,Male,23,Tour,Single,No,5,Good,No,No,No,Family,Yes,No,Yes,Yes,Yes,7
+9/21/2021 6:27:52,1st year,Good,89,Male,20,Friend's House,Single,Yes,3,Good,No,Yes,Yes,Friends,Not applicable,No,Yes,No,Yes,8
+9/21/2021 6:29:52,4th year,Good,86,Male,23,Aunt's House,Single,Yes,5,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,No,7
+9/21/2021 6:31:52,4th year,Very good,90,Male,23,Cousin's House,Single,Yes,3,Good,No,Yes,Yes,Friends,Not applicable,No,Neutral,No,Yes,6
+9/21/2021 6:33:52,2nd year,Very good,100,Male,21,Sister's House,Single,Yes,4,Normal,No,No,Yes,Friends,No,No,Yes,No,Yes,6
+9/21/2021 6:36:52,2nd year,Very bad,10,Male,21,Restaurant,Single,No,3,Good,Yes,No,Yes,Friends,Yes,No,Yes,Yes,No,7
+9/21/2021 6:39:53,4th year,Bad,31,Male,23,Hall-Mess,Single,Yes,3,Normal,Yes,Yes,No,Family,Yes,Maybe,Neutral,Yes,No,4
+9/21/2021 6:42:53,3rd year,Good,76,Male,22,Playground,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,8
+9/21/2021 6:44:53,2nd year,Good,71,Male,21,Tour,Single,Yes,3,Normal,No,Yes,Yes,Family,No,No,Neutral,No,No,6
+9/21/2021 6:46:53,1st year,Normal,63,Male,20,Hall-Mess,Single,No,5,Good,No,Yes,No,Friends,No,No,Neutral,No,Yes,6
+9/21/2021 6:49:53,4th year,Very good,98,Male,23,Friend's House,Single,Yes,3,Good,No,Yes,Yes,Not applicable,Yes,No,Yes,No,Yes,9
+9/21/2021 6:51:53,4th year,Very bad,15,Male,23,Friend's House,Single,Yes,1,Normal,Yes,Yes,No,Not applicable,No,No,No,Yes,Yes,7
+9/21/2021 6:54:55,3rd year,Bad,32,Male,22,Cousin's House,Single,Yes,3,Good,Yes,No,No,Family,No,Yes,No,No,Yes,6
+9/21/2021 6:57:53,3rd year,Bad,39,Male,22,Restaurant,Single,Yes,3,Bad,Yes,Yes,Yes,Not applicable,Yes,No,Neutral,Yes,No,7
+9/21/2021 6:59:54,4th year,Very good,98,Male,23,Sister's House,Single,Yes,4,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+9/21/2021 7:02:54,3rd year,Normal,70,Male,22,Home,Single,No,4,Normal,No,Yes,Yes,Friends,Not applicable,Maybe,Neutral,Yes,Yes,6
+9/21/2021 7:04:54,1st year,Normal,50,Male,20,Aunt's House,Single,Yes,3,Good,Yes,Yes,No,Family,No,Maybe,Yes,Yes,No,7
+9/21/2021 7:06:54,3rd year,Good,79,Male,22,Restaurant,Single,Yes,5,Normal,No,No,Yes,Friends,Yes,No,Yes,No,Yes,8
+9/21/2021 7:09:55,3rd year,Good,79,Male,22,Friend's House,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,No,10
+9/21/2021 7:12:55,2nd year,Very good,96,Male,21,Town,Single,Yes,4,Normal,No,No,Yes,Friends,No,No,Yes,No,Yes,10
+9/21/2021 7:14:55,1st year,Good,88,Male,20,Playground,Single,Yes,5,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,6
+9/21/2021 7:16:55,4th year,Good,71,Male,23,Town,Single,Yes,5,Good,No,Yes,Yes,Friends,No,No,Yes,No,Yes,9
+9/21/2021 7:19:55,3rd year,Very good,92,Male,22,Mosque,Single,Yes,3,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,9
+9/21/2021 7:21:55,2nd year,Good,74,Male,21,Mosque,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Neutral,No,No,7
+9/21/2021 7:23:56,1st year,Normal,53,Male,20,Aunt's House,Single,Yes,4,Normal,No,No,No,Friends,Yes,Maybe,Neutral,No,No,6
+9/21/2021 7:26:56,2nd year,Very good,94,Male,21,Friend's House,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+9/21/2021 7:28:56,3rd year,Normal,65,Male,22,Town,Single,Yes,5,Normal,No,Yes,Yes,Friends,No,No,Neutral,Yes,No,8
+9/21/2021 7:30:56,4th year,Very good,94,Male,23,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Friends,Not applicable,No,Yes,No,No,10
+9/21/2021 7:33:56,1st year,Good,75,Male,20,Cousin's House,Single,Yes,5,Normal,No,No,Yes,Not applicable,Not applicable,No,Neutral,No,Yes,7
+9/21/2021 7:36:57,4th year,Very good,95,Male,23,Town,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Neutral,No,No,6
+9/21/2021 7:39:57,1st year,Good,84,Male,20,Department,Single,Yes,5,Good,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,10
+9/21/2021 7:41:57,4th year,Bad,44,Male,23,Department,Single,Yes,1,Good,Yes,Yes,No,Not applicable,Not applicable,Yes,Yes,No,No,7
+9/21/2021 7:44:57,3rd year,Good,75,Male,22,Department,Single,Yes,5,Good,No,No,Yes,Friends,No,No,Yes,No,No,10
+9/21/2021 7:47:57,4th year,Very bad,18,Male,23,Aunt's House,Single,Yes,1,Bad,Yes,No,No,Family,Yes,Yes,Yes,No,No,5
+9/21/2021 7:50:57,3rd year,Very good,97,Male,22,Restaurant,Single,Yes,3,Good,No,No,Yes,Not applicable,Not applicable,No,Yes,No,Yes,9
+9/21/2021 7:53:58,4th year,Very bad,8,Male,23,Home,Single,Yes,3,Normal,Yes,No,Yes,Not applicable,No,Maybe,No,Yes,No,3
+9/21/2021 7:55:58,4th year,Very good,90,Male,23,Restaurant,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,9
+9/21/2021 7:57:57,1st year,Very good,96,Male,20,Mosque,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,No,10
+9/21/2021 7:59:58,4th year,Good,70,Male,23,Tour,Single,Yes,5,Good,No,No,Yes,Family,No,No,Neutral,No,No,10
+9/21/2021 8:01:58,3rd year,Normal,70,Male,22,Tour,Single,No,3,Normal,No,No,No,Family,No,Maybe,Neutral,No,No,7
+9/21/2021 8:03:58,2nd year,Good,76,Male,21,Tour,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,6
+9/21/2021 8:05:58,3rd year,Bad,36,Male,22,Sister's House,Single,No,3,Normal,Yes,No,No,Family,Yes,No,Neutral,Yes,Yes,4
+9/21/2021 8:08:58,3rd year,Normal,63,Male,22,Home,Single,No,3,Normal,Yes,No,Yes,Family,Yes,Maybe,Yes,No,Yes,8
+9/21/2021 8:10:59,1st year,Good,78,Male,20,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Neutral,No,No,7
+9/21/2021 8:13:59,4th year,Bad,21,Male,23,Sister's House,Single,No,2,Normal,Yes,Yes,No,Not applicable,Not applicable,No,Neutral,Yes,Yes,3
+9/21/2021 8:15:59,3rd year,Bad,27,Male,22,Town,Single,No,1,Bad,Yes,No,Yes,Friends,Yes,No,Yes,No,Yes,5
+9/21/2021 8:17:59,4th year,Normal,55,Male,23,Tour,Single,Yes,4,Normal,Yes,Yes,Yes,Friends,Yes,Maybe,Neutral,No,Yes,8
+9/21/2021 8:20:59,1st year,Very bad,18,Male,20,Playground,Single,Yes,2,Normal,Yes,No,Yes,Not applicable,Yes,No,No,No,No,5
+9/21/2021 8:24:00,4th year,Very good,97,Male,23,Friend's House,Single,Yes,3,Normal,No,Yes,Yes,Not applicable,Not applicable,No,Yes,No,No,7
+9/21/2021 8:26:00,2nd year,Normal,58,Male,21,Restaurant,Single,No,4,Good,Yes,Yes,Yes,Not applicable,No,No,Neutral,Yes,Yes,6
+9/21/2021 8:28:00,4th year,Bad,45,Male,23,Restaurant,Single,Yes,2,Bad,Yes,No,No,Friends,No,Yes,Neutral,Yes,No,6
+9/21/2021 8:31:00,1st year,Normal,70,Male,20,Home,Single,Yes,3,Good,No,No,Yes,Not applicable,No,Maybe,Yes,No,Yes,8
+9/21/2021 8:34:00,1st year,Very bad,1,Male,20,Hall-Mess,Single,Yes,1,Good,Yes,No,Yes,Not applicable,No,Maybe,Yes,Yes,No,3
+9/21/2021 8:36:00,3rd year,Good,78,Male,22,Mosque,Single,Yes,4,Good,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,10
+9/21/2021 8:38:00,1st year,Good,75,Male,20,Tour,Single,Yes,5,Good,No,Yes,Yes,Friends,Not applicable,No,Yes,No,No,6
+9/21/2021 8:41:00,2nd year,Very good,94,Male,21,Friend's House,Single,Yes,5,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,9
+9/21/2021 8:44:00,4th year,Bad,29,Male,23,Friend's House,Single,No,1,Good,Yes,Yes,Yes,Not applicable,Yes,No,Neutral,Yes,No,7
+9/21/2021 8:47:01,2nd year,Very good,93,Male,21,Friend's House,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Yes,No,No,8
+9/21/2021 8:50:01,3rd year,Very bad,6,Male,22,Town,Single,Yes,2,Bad,Yes,No,No,Friends,Yes,Maybe,Neutral,Yes,No,7
